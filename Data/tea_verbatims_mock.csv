@@ -1,0 +1,877 @@
+market,tea_type,response_no,verbatim,theme,sentiment,persona
+US,Other cold brew tea,1,The aftertaste puts me off,Taste / flavour,Neutral,Curious Explorer
+US,Green tea (pure),2,Tastes medicinal and unpleasant,Taste / flavour,Negative,Price-Conscious Rejecter
+US,"Benefit / functional tea (sleep, detox, immunity)",3,Just doesn't taste nice,Taste / flavour,Neutral,Traditional Drinker
+US,Chamomile tea,4,I stick to what I know,Habit / preference,Positive,Convenience Buyer
+CA,Decaffeinated black tea,5,Too watery for me,Texture / mouthfeel,Negative,Price-Conscious Rejecter
+US,Cold brew green tea,6,I avoid caffeine for health reasons,Caffeine concerns,Negative,Curious Explorer
+CA,English Breakfast / extra-strong black tea,7,Flavour is too earthy,Taste / flavour,Negative,Curious Explorer
+CA,Green tea (pure),8,Not familiar with how to drink it,Unfamiliarity,Negative,Price-Conscious Rejecter
+UK,Cold brew fruit and herbal tea,9,Not stocked where I shop,Availability,Negative,Curious Explorer
+CA,Other tea (e.g. white tea),10,Not sure of the right water temperature,Brewing complexity,Neutral,Functional Benefit Seeker
+US,Green tea flavoured (e.g. lemon),11,I wouldn't know where to start with it,Unfamiliarity,Negative,Curious Explorer
+CA,Green tea flavoured (e.g. lemon),12,Too strong a flavour for my liking,Taste / flavour,Negative,Convenience Buyer
+US,English Breakfast / extra-strong black tea,13,Takes too long to make,Brewing complexity,Negative,Traditional Drinker
+US,Matcha tea,14,Just doesn't taste nice,Taste / flavour,Negative,Curious Explorer
+US,Chamomile tea,15,The aftertaste puts me off,Taste / flavour,Negative,Wellness Seeker
+UK,Chamomile tea,16,Not stocked where I shop,Availability,Negative,Functional Benefit Seeker
+US,Cold brew fruit and herbal tea,17,Cheaper options do the same job,Price / value,Negative,Curious Explorer
+US,Cold brew black tea,18,Not stocked where I shop,Availability,Negative,Convenience Buyer
+CA,Peppermint tea,19,Not sure of the right water temperature,Brewing complexity,Positive,Price-Conscious Rejecter
+US,Chamomile tea,20,It feels gritty,Texture / mouthfeel,Neutral,Functional Benefit Seeker
+UK,Green tea decaffeinated,21,Premium pricing puts me off,Price / value,Neutral,Convenience Buyer
+UK,English Breakfast / extra-strong black tea,22,Just doesn't taste nice,Taste / flavour,Positive,Traditional Drinker
+UK,Cold brew green tea,23,Takes too long to make,Brewing complexity,Positive,Curious Explorer
+CA,Chamomile tea,24,Flavour is too earthy,Taste / flavour,Negative,Price-Conscious Rejecter
+CA,Regular / everyday black tea,25,I avoid caffeine for health reasons,Caffeine concerns,Positive,Convenience Buyer
+UK,Other tea (e.g. white tea),26,Can't get it easily,Availability,Negative,Convenience Buyer
+US,English Breakfast / extra-strong black tea,27,I find it bland and watery,Taste / flavour,Negative,Functional Benefit Seeker
+CA,Other tea (e.g. white tea),28,Don't want to pay more for it,Price / value,Negative,Price-Conscious Rejecter
+UK,Decaffeinated black tea,29,Too fiddly compared to a teabag,Brewing complexity,Negative,Traditional Drinker
+US,Rooibos / red tea,30,I just prefer my usual tea,Habit / preference,Negative,Functional Benefit Seeker
+US,Bubble tea,31,I find it bland and watery,Taste / flavour,Neutral,Curious Explorer
+CA,Other cold brew tea,32,Not stocked where I shop,Availability,Neutral,Traditional Drinker
+US,Green tea flavoured (e.g. lemon),33,It's too expensive for what it is,Price / value,Negative,Wellness Seeker
+UK,Green tea (pure),34,It's too expensive for what it is,Price / value,Neutral,Traditional Drinker
+UK,Matcha tea,35,Takes too long to make,Brewing complexity,Negative,Wellness Seeker
+US,Regular / everyday black tea,36,Looking for healthier alternatives,Health perception,Negative,Wellness Seeker
+US,Matcha tea,37,Too much caffeine for the evening,Caffeine concerns,Negative,Curious Explorer
+UK,Other cold brew tea,38,I wouldn't know where to start with it,Unfamiliarity,Negative,Traditional Drinker
+UK,Regular / everyday black tea,39,Not convinced by the health claims,Health perception,Negative,Traditional Drinker
+CA,Decaffeinated black tea,40,Want something caffeine-free,Caffeine concerns,Negative,Price-Conscious Rejecter
+US,English Breakfast / extra-strong black tea,41,Flavour is too earthy,Taste / flavour,Positive,Wellness Seeker
+CA,English Breakfast / extra-strong black tea,42,Just doesn't taste nice,Taste / flavour,Negative,Convenience Buyer
+UK,English Breakfast / extra-strong black tea,43,Not stocked where I shop,Availability,Negative,Wellness Seeker
+US,Cold brew black tea,44,Rarely see it on the shelf,Availability,Neutral,Traditional Drinker
+UK,Decaffeinated black tea,45,The aftertaste puts me off,Taste / flavour,Negative,Functional Benefit Seeker
+UK,Cold brew fruit and herbal tea,46,Can't get it easily,Availability,Negative,Price-Conscious Rejecter
+CA,Matcha tea,47,Caffeine keeps me awake at night,Caffeine concerns,Negative,Curious Explorer
+US,Other herbal tea,48,The aftertaste puts me off,Taste / flavour,Negative,Functional Benefit Seeker
+CA,Flavoured black tea (e.g. Earl Grey),49,Not part of my routine,Habit / preference,Negative,Wellness Seeker
+CA,Flavoured black tea (e.g. Earl Grey),50,Premium pricing puts me off,Price / value,Positive,Functional Benefit Seeker
+CA,Cold brew green tea,51,Je ne connais pas ce type de thé,Unfamiliarity,Negative,Curious Explorer
+UK,Bubble tea,52,It feels gritty,Texture / mouthfeel,Negative,Curious Explorer
+US,Instant tea powder,53,Don't want to pay more for it,Price / value,Negative,Price-Conscious Rejecter
+CA,"Benefit / functional tea (sleep, detox, immunity)",54,I've never really tried it,Unfamiliarity,Negative,Curious Explorer
+US,Lemon / ginger tea,55,Not familiar with how to drink it,Unfamiliarity,Negative,Curious Explorer
+CA,"Origin black tea (e.g. Assam, Darjeeling)",56,Not part of my routine,Habit / preference,Negative,Traditional Drinker
+CA,Lemon / ginger tea,57,Too fiddly compared to a teabag,Brewing complexity,Negative,Wellness Seeker
+CA,Green tea decaffeinated,58,Tastes medicinal and unpleasant,Taste / flavour,Neutral,Functional Benefit Seeker
+UK,"Benefit / functional tea (sleep, detox, immunity)",59,I avoid caffeine for health reasons,Caffeine concerns,Negative,Convenience Buyer
+UK,Green tea (pure),60,Hard to find in my local shop,Availability,Negative,Functional Benefit Seeker
+CA,Cold brew black tea,61,The taste is too bitter for me,Taste / flavour,Negative,Functional Benefit Seeker
+US,Regular / everyday black tea,62,Too much caffeine for the evening,Caffeine concerns,Negative,Traditional Drinker
+UK,Green tea decaffeinated,63,Caffeine keeps me awake at night,Caffeine concerns,Negative,Wellness Seeker
+UK,Other tea (e.g. white tea),64,I find it bland and watery,Taste / flavour,Negative,Convenience Buyer
+UK,Rooibos / red tea,65,Want something caffeine-free,Caffeine concerns,Negative,Functional Benefit Seeker
+CA,Matcha tea,66,Already happy with my regular brew,Habit / preference,Negative,Traditional Drinker
+CA,Cold brew green tea,67,I find it bland and watery,Taste / flavour,Neutral,Traditional Drinker
+US,Green tea flavoured (e.g. lemon),68,Drinking hot tea is my habit,Habit / preference,Negative,Convenience Buyer
+UK,Rooibos / red tea,69,I find it bland and watery,Taste / flavour,Negative,Traditional Drinker
+US,Green tea (pure),70,I wouldn't know where to start with it,Unfamiliarity,Negative,Curious Explorer
+CA,Cold brew black tea,71,Rarely see it on the shelf,Availability,Neutral,Functional Benefit Seeker
+CA,Green tea decaffeinated,72,Not convinced by the health claims,Health perception,Negative,Wellness Seeker
+CA,Regular / everyday black tea,73,Flavour is too earthy,Taste / flavour,Negative,Curious Explorer
+CA,Cold brew black tea,74,Cheaper options do the same job,Price / value,Negative,Wellness Seeker
+UK,Cold brew green tea,75,I drink it for wellness reasons,Health perception,Negative,Traditional Drinker
+US,Cold brew fruit and herbal tea,76,Not familiar with how to drink it,Unfamiliarity,Negative,Convenience Buyer
+US,Matcha tea,77,Not stocked where I shop,Availability,Neutral,Curious Explorer
+US,Other tea (e.g. white tea),78,Never been introduced to it properly,Unfamiliarity,Negative,Price-Conscious Rejecter
+US,Flavoured black tea (e.g. Earl Grey),79,The aftertaste puts me off,Taste / flavour,Negative,Curious Explorer
+US,"Benefit / functional tea (sleep, detox, immunity)",80,Prefer options with proven benefits,Health perception,Neutral,Curious Explorer
+US,Instant tea powder,81,I don't like the texture,Texture / mouthfeel,Negative,Price-Conscious Rejecter
+CA,Bubble tea,82,Want something caffeine-free,Caffeine concerns,Negative,Wellness Seeker
+US,Green tea flavoured (e.g. lemon),83,Want something caffeine-free,Caffeine concerns,Negative,Traditional Drinker
+UK,Peppermint tea,84,Too fiddly compared to a teabag,Brewing complexity,Negative,Traditional Drinker
+UK,Cold brew black tea,85,I just prefer my usual tea,Habit / preference,Negative,Curious Explorer
+UK,Green tea (pure),86,The taste is too bitter for me,Taste / flavour,Positive,Traditional Drinker
+US,"Origin black tea (e.g. Assam, Darjeeling)",87,Want something caffeine-free,Caffeine concerns,Negative,Convenience Buyer
+UK,Chamomile tea,88,Mouthfeel is strange,Texture / mouthfeel,Positive,Price-Conscious Rejecter
+CA,"Origin black tea (e.g. Assam, Darjeeling)",89,Never been introduced to it properly,Unfamiliarity,Negative,Convenience Buyer
+US,"Fruit tea (e.g. berry, peach)",90,Too strong a flavour for my liking,Taste / flavour,Neutral,Functional Benefit Seeker
+UK,"Benefit / functional tea (sleep, detox, immunity)",91,I don't like the texture,Texture / mouthfeel,Negative,Traditional Drinker
+CA,Regular / everyday black tea,92,I just prefer my usual tea,Habit / preference,Negative,Convenience Buyer
+UK,Peppermint tea,93,I've never really tried it,Unfamiliarity,Negative,Convenience Buyer
+UK,Other herbal tea,94,I find it bland and watery,Taste / flavour,Negative,Traditional Drinker
+UK,Rooibos / red tea,95,Hard to find in my local shop,Availability,Negative,Wellness Seeker
+CA,"Fruit tea (e.g. berry, peach)",96,Cheaper options do the same job,Price / value,Negative,Curious Explorer
+UK,Other tea (e.g. white tea),97,Don't want to pay more for it,Price / value,Negative,Price-Conscious Rejecter
+US,Chai tea,98,Rarely see it on the shelf,Availability,Negative,Price-Conscious Rejecter
+UK,English Breakfast / extra-strong black tea,99,I just prefer my usual tea,Habit / preference,Negative,Wellness Seeker
+UK,Other herbal tea,100,Don't want to pay more for it,Price / value,Negative,Convenience Buyer
+UK,Rooibos / red tea,101,I avoid caffeine for health reasons,Caffeine concerns,Neutral,Price-Conscious Rejecter
+CA,Other cold brew tea,102,Don't want to pay more for it,Price / value,Negative,Curious Explorer
+UK,Peppermint tea,103,Not sure of the right water temperature,Brewing complexity,Negative,Functional Benefit Seeker
+UK,Green tea flavoured (e.g. lemon),104,I drink it for wellness reasons,Health perception,Negative,Wellness Seeker
+US,Green tea flavoured (e.g. lemon),105,Just doesn't taste nice,Taste / flavour,Negative,Price-Conscious Rejecter
+UK,Cold brew black tea,106,I've never really tried it,Unfamiliarity,Negative,Functional Benefit Seeker
+US,Other herbal tea,107,Too much caffeine for the evening,Caffeine concerns,Negative,Functional Benefit Seeker
+UK,Bubble tea,108,Too strong a flavour for my liking,Taste / flavour,Neutral,Traditional Drinker
+UK,Green tea (pure),109,I wouldn't know where to start with it,Unfamiliarity,Negative,Functional Benefit Seeker
+UK,Green tea flavoured (e.g. lemon),110,I wouldn't know where to start with it,Unfamiliarity,Positive,Curious Explorer
+UK,Other cold brew tea,111,Mouthfeel is strange,Texture / mouthfeel,Negative,Price-Conscious Rejecter
+US,Chai tea,112,I stick to what I know,Habit / preference,Negative,Wellness Seeker
+US,Cold brew green tea,113,Drinking hot tea is my habit,Habit / preference,Negative,Functional Benefit Seeker
+US,Green tea decaffeinated,114,Not part of my routine,Habit / preference,Neutral,Traditional Drinker
+CA,Instant tea powder,115,Premium pricing puts me off,Price / value,Negative,Functional Benefit Seeker
+CA,Chai tea,116,Never been introduced to it properly,Unfamiliarity,Negative,Convenience Buyer
+UK,Instant tea powder,117,Not familiar with how to drink it,Unfamiliarity,Neutral,Traditional Drinker
+UK,Rooibos / red tea,118,Too much caffeine for the evening,Caffeine concerns,Negative,Functional Benefit Seeker
+CA,Cold brew green tea,119,Can't get it easily,Availability,Negative,Functional Benefit Seeker
+US,Other herbal tea,120,Never been introduced to it properly,Unfamiliarity,Negative,Convenience Buyer
+UK,Regular / everyday black tea,121,Can't get it easily,Availability,Negative,Convenience Buyer
+UK,Instant tea powder,122,Not worth the extra cost,Price / value,Negative,Price-Conscious Rejecter
+US,"Origin black tea (e.g. Assam, Darjeeling)",123,Just doesn't taste nice,Taste / flavour,Negative,Wellness Seeker
+UK,Rooibos / red tea,124,Not familiar with how to drink it,Unfamiliarity,Negative,Curious Explorer
+US,"Benefit / functional tea (sleep, detox, immunity)",125,Caffeine keeps me awake at night,Caffeine concerns,Negative,Wellness Seeker
+US,Regular / everyday black tea,126,It feels gritty,Texture / mouthfeel,Neutral,Traditional Drinker
+US,Chai tea,127,I avoid caffeine for health reasons,Caffeine concerns,Negative,Wellness Seeker
+US,Cold brew green tea,128,Too fiddly compared to a teabag,Brewing complexity,Negative,Convenience Buyer
+CA,Other tea (e.g. white tea),129,Not part of my routine,Habit / preference,Neutral,Wellness Seeker
+US,Other tea (e.g. white tea),130,Looking for healthier alternatives,Health perception,Negative,Convenience Buyer
+UK,Cold brew green tea,131,Cheaper options do the same job,Price / value,Negative,Functional Benefit Seeker
+UK,Chai tea,132,I wouldn't know where to start with it,Unfamiliarity,Negative,Curious Explorer
+US,"Benefit / functional tea (sleep, detox, immunity)",133,The aftertaste puts me off,Taste / flavour,Negative,Price-Conscious Rejecter
+US,Other herbal tea,134,Premium pricing puts me off,Price / value,Negative,Wellness Seeker
+CA,Green tea flavoured (e.g. lemon),135,C'est trop cher,Price / value,Negative,Curious Explorer
+CA,Bubble tea,136,Too strong a flavour for my liking,Taste / flavour,Negative,Curious Explorer
+CA,Flavoured black tea (e.g. Earl Grey),137,Already happy with my regular brew,Habit / preference,Negative,Traditional Drinker
+US,Rooibos / red tea,138,Caffeine keeps me awake at night,Caffeine concerns,Neutral,Curious Explorer
+UK,Green tea decaffeinated,139,Takes too long to make,Brewing complexity,Negative,Convenience Buyer
+CA,Matcha tea,140,Want something caffeine-free,Caffeine concerns,Negative,Functional Benefit Seeker
+UK,Chamomile tea,141,Not worth the extra cost,Price / value,Negative,Wellness Seeker
+CA,English Breakfast / extra-strong black tea,142,Already happy with my regular brew,Habit / preference,Negative,Convenience Buyer
+US,"Origin black tea (e.g. Assam, Darjeeling)",143,Not familiar with how to drink it,Unfamiliarity,Negative,Wellness Seeker
+UK,English Breakfast / extra-strong black tea,144,I avoid caffeine for health reasons,Caffeine concerns,Negative,Convenience Buyer
+CA,"Origin black tea (e.g. Assam, Darjeeling)",145,Not convinced by the health claims,Health perception,Negative,Wellness Seeker
+UK,Other cold brew tea,146,Hard to find in my local shop,Availability,Negative,Wellness Seeker
+CA,Green tea flavoured (e.g. lemon),147,I drink it for wellness reasons,Health perception,Negative,Price-Conscious Rejecter
+CA,Green tea flavoured (e.g. lemon),148,Not sure of the right water temperature,Brewing complexity,Negative,Curious Explorer
+US,Peppermint tea,149,The aftertaste puts me off,Taste / flavour,Neutral,Curious Explorer
+UK,Bubble tea,150,The aftertaste puts me off,Taste / flavour,Negative,Price-Conscious Rejecter
+UK,Rooibos / red tea,151,I just prefer my usual tea,Habit / preference,Negative,Price-Conscious Rejecter
+CA,Peppermint tea,152,Don't know much about this type,Unfamiliarity,Positive,Wellness Seeker
+US,English Breakfast / extra-strong black tea,153,Premium pricing puts me off,Price / value,Negative,Price-Conscious Rejecter
+CA,Other herbal tea,154,I just prefer my usual tea,Habit / preference,Negative,Convenience Buyer
+CA,Instant tea powder,155,Too much caffeine for the evening,Caffeine concerns,Neutral,Price-Conscious Rejecter
+UK,Other cold brew tea,156,Too fiddly compared to a teabag,Brewing complexity,Negative,Convenience Buyer
+US,Instant tea powder,157,Just doesn't taste nice,Taste / flavour,Negative,Price-Conscious Rejecter
+UK,Regular / everyday black tea,158,Looking for healthier alternatives,Health perception,Negative,Convenience Buyer
+US,Cold brew black tea,159,Too much caffeine for the evening,Caffeine concerns,Positive,Wellness Seeker
+US,Lemon / ginger tea,160,Don't want to pay more for it,Price / value,Negative,Wellness Seeker
+UK,Cold brew black tea,161,Rarely see it on the shelf,Availability,Negative,Convenience Buyer
+UK,Chamomile tea,162,Too strong a flavour for my liking,Taste / flavour,Neutral,Traditional Drinker
+CA,"Fruit tea (e.g. berry, peach)",163,Already happy with my regular brew,Habit / preference,Negative,Price-Conscious Rejecter
+CA,Instant tea powder,164,Too strong a flavour for my liking,Taste / flavour,Neutral,Curious Explorer
+US,Cold brew green tea,165,Premium pricing puts me off,Price / value,Neutral,Convenience Buyer
+US,Matcha tea,166,Not part of my routine,Habit / preference,Negative,Curious Explorer
+UK,Green tea flavoured (e.g. lemon),167,It's too expensive for what it is,Price / value,Neutral,Functional Benefit Seeker
+CA,Matcha tea,168,Too strong a flavour for my liking,Taste / flavour,Negative,Price-Conscious Rejecter
+CA,Other tea (e.g. white tea),169,Je n'aime pas le goût,Taste / flavour,Neutral,Price-Conscious Rejecter
+US,"Fruit tea (e.g. berry, peach)",170,Don't know much about this type,Unfamiliarity,Neutral,Price-Conscious Rejecter
+CA,Rooibos / red tea,171,Not part of my routine,Habit / preference,Neutral,Convenience Buyer
+CA,Other herbal tea,172,The aftertaste puts me off,Taste / flavour,Negative,Price-Conscious Rejecter
+US,Cold brew fruit and herbal tea,173,I'm trying to cut down on caffeine,Caffeine concerns,Negative,Traditional Drinker
+CA,Lemon / ginger tea,174,The aftertaste puts me off,Taste / flavour,Neutral,Price-Conscious Rejecter
+CA,Rooibos / red tea,175,I don't like the grassy flavour,Taste / flavour,Positive,Curious Explorer
+UK,Lemon / ginger tea,176,Caffeine keeps me awake at night,Caffeine concerns,Negative,Curious Explorer
+US,Peppermint tea,177,Flavour is too earthy,Taste / flavour,Negative,Wellness Seeker
+US,Decaffeinated black tea,178,I don't like the texture,Texture / mouthfeel,Negative,Wellness Seeker
+UK,Instant tea powder,179,I just prefer my usual tea,Habit / preference,Neutral,Price-Conscious Rejecter
+US,Decaffeinated black tea,180,Just doesn't taste nice,Taste / flavour,Negative,Functional Benefit Seeker
+US,Chai tea,181,The taste is too bitter for me,Taste / flavour,Negative,Functional Benefit Seeker
+UK,Peppermint tea,182,I wouldn't know where to start with it,Unfamiliarity,Positive,Wellness Seeker
+US,Cold brew fruit and herbal tea,183,Not familiar with how to drink it,Unfamiliarity,Neutral,Functional Benefit Seeker
+CA,Decaffeinated black tea,184,I've never really tried it,Unfamiliarity,Positive,Price-Conscious Rejecter
+UK,Matcha tea,185,I'm trying to cut down on caffeine,Caffeine concerns,Negative,Price-Conscious Rejecter
+UK,English Breakfast / extra-strong black tea,186,Already happy with my regular brew,Habit / preference,Negative,Convenience Buyer
+CA,"Fruit tea (e.g. berry, peach)",187,Not convinced by the health claims,Health perception,Negative,Traditional Drinker
+UK,Green tea flavoured (e.g. lemon),188,Too strong a flavour for my liking,Taste / flavour,Negative,Traditional Drinker
+UK,Other tea (e.g. white tea),189,I wouldn't know where to start with it,Unfamiliarity,Negative,Traditional Drinker
+CA,"Benefit / functional tea (sleep, detox, immunity)",190,Premium pricing puts me off,Price / value,Positive,Traditional Drinker
+CA,Cold brew green tea,191,Premium pricing puts me off,Price / value,Negative,Price-Conscious Rejecter
+US,Rooibos / red tea,192,I don't think it's actually that healthy,Health perception,Negative,Convenience Buyer
+US,Regular / everyday black tea,193,I don't like the grassy flavour,Taste / flavour,Negative,Traditional Drinker
+US,Peppermint tea,194,Already happy with my regular brew,Habit / preference,Negative,Convenience Buyer
+CA,English Breakfast / extra-strong black tea,195,Je préfère le thé chaud,Habit / preference,Negative,Price-Conscious Rejecter
+US,Other cold brew tea,196,The aftertaste puts me off,Taste / flavour,Negative,Price-Conscious Rejecter
+UK,Green tea flavoured (e.g. lemon),197,Prefer options with proven benefits,Health perception,Negative,Price-Conscious Rejecter
+CA,Bubble tea,198,Just doesn't taste nice,Taste / flavour,Negative,Wellness Seeker
+US,Cold brew fruit and herbal tea,199,Rarely see it on the shelf,Availability,Negative,Price-Conscious Rejecter
+US,Lemon / ginger tea,200,Too strong a flavour for my liking,Taste / flavour,Neutral,Curious Explorer
+UK,Chai tea,201,Too watery for me,Texture / mouthfeel,Negative,Functional Benefit Seeker
+UK,Decaffeinated black tea,202,Don't know much about this type,Unfamiliarity,Negative,Convenience Buyer
+UK,Chai tea,203,Rarely see it on the shelf,Availability,Negative,Functional Benefit Seeker
+US,Green tea decaffeinated,204,Not familiar with how to drink it,Unfamiliarity,Negative,Wellness Seeker
+UK,Cold brew green tea,205,Not part of my routine,Habit / preference,Neutral,Curious Explorer
+UK,"Origin black tea (e.g. Assam, Darjeeling)",206,I find it bland and watery,Taste / flavour,Negative,Convenience Buyer
+UK,Decaffeinated black tea,207,I wouldn't know where to start with it,Unfamiliarity,Neutral,Functional Benefit Seeker
+US,"Fruit tea (e.g. berry, peach)",208,Flavour is too earthy,Taste / flavour,Positive,Functional Benefit Seeker
+US,Green tea flavoured (e.g. lemon),209,Want something caffeine-free,Caffeine concerns,Negative,Curious Explorer
+UK,Other tea (e.g. white tea),210,I don't like the texture,Texture / mouthfeel,Negative,Wellness Seeker
+UK,Cold brew green tea,211,The taste is too bitter for me,Taste / flavour,Negative,Price-Conscious Rejecter
+US,Peppermint tea,212,Too much caffeine for the evening,Caffeine concerns,Positive,Functional Benefit Seeker
+US,Regular / everyday black tea,213,Don't know much about this type,Unfamiliarity,Positive,Wellness Seeker
+CA,Regular / everyday black tea,214,Not sure of the right water temperature,Brewing complexity,Negative,Functional Benefit Seeker
+CA,Chai tea,215,Not sure of the right water temperature,Brewing complexity,Negative,Convenience Buyer
+UK,Flavoured black tea (e.g. Earl Grey),216,The taste is too bitter for me,Taste / flavour,Negative,Wellness Seeker
+CA,"Benefit / functional tea (sleep, detox, immunity)",217,Hard to find in my local shop,Availability,Neutral,Functional Benefit Seeker
+UK,Other herbal tea,218,I wouldn't know where to start with it,Unfamiliarity,Negative,Price-Conscious Rejecter
+US,Regular / everyday black tea,219,Just doesn't taste nice,Taste / flavour,Negative,Curious Explorer
+US,Green tea decaffeinated,220,Flavour is too earthy,Taste / flavour,Negative,Traditional Drinker
+UK,Cold brew green tea,221,Too watery for me,Texture / mouthfeel,Negative,Traditional Drinker
+US,"Benefit / functional tea (sleep, detox, immunity)",222,Too much effort to prepare properly,Brewing complexity,Neutral,Traditional Drinker
+UK,Matcha tea,223,The taste is too bitter for me,Taste / flavour,Positive,Curious Explorer
+CA,English Breakfast / extra-strong black tea,224,Flavour is too earthy,Taste / flavour,Negative,Wellness Seeker
+CA,English Breakfast / extra-strong black tea,225,Caffeine keeps me awake at night,Caffeine concerns,Negative,Functional Benefit Seeker
+US,Green tea (pure),226,The aftertaste puts me off,Taste / flavour,Neutral,Curious Explorer
+UK,Chai tea,227,The aftertaste puts me off,Taste / flavour,Negative,Curious Explorer
+CA,"Fruit tea (e.g. berry, peach)",228,I avoid caffeine for health reasons,Caffeine concerns,Negative,Curious Explorer
+US,"Origin black tea (e.g. Assam, Darjeeling)",229,Not sure of the right water temperature,Brewing complexity,Negative,Price-Conscious Rejecter
+UK,Rooibos / red tea,230,Not part of my routine,Habit / preference,Negative,Functional Benefit Seeker
+US,Green tea (pure),231,Never been introduced to it properly,Unfamiliarity,Neutral,Wellness Seeker
+US,Flavoured black tea (e.g. Earl Grey),232,Not familiar with how to drink it,Unfamiliarity,Negative,Wellness Seeker
+US,Peppermint tea,233,Drinking hot tea is my habit,Habit / preference,Negative,Functional Benefit Seeker
+UK,"Benefit / functional tea (sleep, detox, immunity)",234,I'm trying to cut down on caffeine,Caffeine concerns,Positive,Functional Benefit Seeker
+US,Decaffeinated black tea,235,I've never really tried it,Unfamiliarity,Negative,Price-Conscious Rejecter
+CA,"Fruit tea (e.g. berry, peach)",236,Trop amer pour moi,Taste / flavour,Negative,Wellness Seeker
+US,Other cold brew tea,237,I don't like the texture,Texture / mouthfeel,Negative,Curious Explorer
+UK,Peppermint tea,238,Hard to find in my local shop,Availability,Negative,Curious Explorer
+UK,Cold brew fruit and herbal tea,239,Too much effort to prepare properly,Brewing complexity,Negative,Wellness Seeker
+CA,Other cold brew tea,240,Premium pricing puts me off,Price / value,Negative,Traditional Drinker
+CA,Peppermint tea,241,I just prefer my usual tea,Habit / preference,Negative,Curious Explorer
+US,Green tea decaffeinated,242,Too much caffeine for the evening,Caffeine concerns,Negative,Price-Conscious Rejecter
+UK,Instant tea powder,243,Flavour is too earthy,Taste / flavour,Negative,Curious Explorer
+CA,Green tea (pure),244,Flavour is too earthy,Taste / flavour,Neutral,Price-Conscious Rejecter
+US,Green tea (pure),245,The taste is too bitter for me,Taste / flavour,Negative,Price-Conscious Rejecter
+CA,Chamomile tea,246,I don't like the grassy flavour,Taste / flavour,Negative,Convenience Buyer
+US,Other cold brew tea,247,Don't know much about this type,Unfamiliarity,Negative,Convenience Buyer
+US,Lemon / ginger tea,248,I'm never sure how long to brew it,Brewing complexity,Negative,Convenience Buyer
+UK,Green tea flavoured (e.g. lemon),249,Not sure of the right water temperature,Brewing complexity,Negative,Curious Explorer
+US,Peppermint tea,250,Rarely see it on the shelf,Availability,Neutral,Traditional Drinker
+UK,Green tea (pure),251,Want something caffeine-free,Caffeine concerns,Negative,Convenience Buyer
+US,Chai tea,252,Don't know much about this type,Unfamiliarity,Negative,Functional Benefit Seeker
+UK,Green tea (pure),253,Takes too long to make,Brewing complexity,Negative,Wellness Seeker
+UK,Chai tea,254,Caffeine keeps me awake at night,Caffeine concerns,Negative,Functional Benefit Seeker
+US,"Fruit tea (e.g. berry, peach)",255,I find it bland and watery,Taste / flavour,Negative,Traditional Drinker
+CA,Lemon / ginger tea,256,I don't like the grassy flavour,Taste / flavour,Negative,Convenience Buyer
+US,Flavoured black tea (e.g. Earl Grey),257,Too much effort to prepare properly,Brewing complexity,Neutral,Functional Benefit Seeker
+CA,Cold brew green tea,258,I avoid caffeine for health reasons,Caffeine concerns,Negative,Price-Conscious Rejecter
+US,Peppermint tea,259,I drink it for wellness reasons,Health perception,Negative,Price-Conscious Rejecter
+UK,Instant tea powder,260,I stick to what I know,Habit / preference,Negative,Functional Benefit Seeker
+CA,Rooibos / red tea,261,The bubbles put me off,Texture / mouthfeel,Negative,Functional Benefit Seeker
+UK,Flavoured black tea (e.g. Earl Grey),262,I find it bland and watery,Taste / flavour,Neutral,Curious Explorer
+UK,Flavoured black tea (e.g. Earl Grey),263,Drinking hot tea is my habit,Habit / preference,Negative,Curious Explorer
+UK,"Benefit / functional tea (sleep, detox, immunity)",264,Want something caffeine-free,Caffeine concerns,Neutral,Convenience Buyer
+UK,Lemon / ginger tea,265,Too strong a flavour for my liking,Taste / flavour,Negative,Price-Conscious Rejecter
+UK,Peppermint tea,266,I wouldn't know where to start with it,Unfamiliarity,Negative,Functional Benefit Seeker
+CA,Chai tea,267,Don't want to pay more for it,Price / value,Negative,Functional Benefit Seeker
+US,Rooibos / red tea,268,Too much caffeine for the evening,Caffeine concerns,Negative,Traditional Drinker
+UK,Chamomile tea,269,I don't like the texture,Texture / mouthfeel,Negative,Functional Benefit Seeker
+US,Cold brew fruit and herbal tea,270,I don't think it's actually that healthy,Health perception,Negative,Curious Explorer
+CA,Other tea (e.g. white tea),271,Don't know much about this type,Unfamiliarity,Negative,Price-Conscious Rejecter
+CA,English Breakfast / extra-strong black tea,272,Just doesn't taste nice,Taste / flavour,Neutral,Price-Conscious Rejecter
+US,Peppermint tea,273,Not part of my routine,Habit / preference,Neutral,Traditional Drinker
+CA,"Origin black tea (e.g. Assam, Darjeeling)",274,Not sure of the right water temperature,Brewing complexity,Negative,Wellness Seeker
+US,Decaffeinated black tea,275,I avoid caffeine for health reasons,Caffeine concerns,Negative,Convenience Buyer
+UK,Other tea (e.g. white tea),276,I'm never sure how long to brew it,Brewing complexity,Neutral,Convenience Buyer
+CA,Other herbal tea,277,The taste is too bitter for me,Taste / flavour,Neutral,Price-Conscious Rejecter
+UK,Chai tea,278,Takes too long to make,Brewing complexity,Negative,Price-Conscious Rejecter
+US,Matcha tea,279,Already happy with my regular brew,Habit / preference,Negative,Price-Conscious Rejecter
+CA,Chamomile tea,280,I'm trying to cut down on caffeine,Caffeine concerns,Negative,Price-Conscious Rejecter
+UK,Other cold brew tea,281,I always get the brewing wrong,Brewing complexity,Neutral,Curious Explorer
+CA,Decaffeinated black tea,282,The taste is too bitter for me,Taste / flavour,Neutral,Wellness Seeker
+CA,Other cold brew tea,283,I don't think it's actually that healthy,Health perception,Negative,Curious Explorer
+CA,"Benefit / functional tea (sleep, detox, immunity)",284,I'm never sure how long to brew it,Brewing complexity,Negative,Wellness Seeker
+US,"Origin black tea (e.g. Assam, Darjeeling)",285,I stick to what I know,Habit / preference,Negative,Traditional Drinker
+UK,Chamomile tea,286,It's too expensive for what it is,Price / value,Negative,Curious Explorer
+UK,Other cold brew tea,287,Not stocked where I shop,Availability,Negative,Traditional Drinker
+US,Rooibos / red tea,288,Never been introduced to it properly,Unfamiliarity,Neutral,Curious Explorer
+UK,Cold brew green tea,289,Too strong a flavour for my liking,Taste / flavour,Negative,Functional Benefit Seeker
+US,"Fruit tea (e.g. berry, peach)",290,I've never really tried it,Unfamiliarity,Neutral,Traditional Drinker
+CA,Regular / everyday black tea,291,I don't think it's actually that healthy,Health perception,Negative,Convenience Buyer
+CA,Chai tea,292,I don't like the grassy flavour,Taste / flavour,Negative,Wellness Seeker
+US,Instant tea powder,293,I always get the brewing wrong,Brewing complexity,Negative,Traditional Drinker
+UK,Other tea (e.g. white tea),294,I drink it for wellness reasons,Health perception,Neutral,Traditional Drinker
+CA,"Benefit / functional tea (sleep, detox, immunity)",295,Not convinced by the health claims,Health perception,Neutral,Curious Explorer
+CA,Peppermint tea,296,Too fiddly compared to a teabag,Brewing complexity,Negative,Traditional Drinker
+UK,Flavoured black tea (e.g. Earl Grey),297,It feels gritty,Texture / mouthfeel,Negative,Wellness Seeker
+UK,Green tea (pure),298,Not familiar with how to drink it,Unfamiliarity,Neutral,Traditional Drinker
+CA,Other herbal tea,299,I just prefer my usual tea,Habit / preference,Neutral,Wellness Seeker
+UK,Other herbal tea,300,Don't want to pay more for it,Price / value,Negative,Curious Explorer
+UK,Chai tea,301,Not sure of the right water temperature,Brewing complexity,Negative,Wellness Seeker
+CA,Rooibos / red tea,302,Don't know much about this type,Unfamiliarity,Negative,Price-Conscious Rejecter
+US,"Fruit tea (e.g. berry, peach)",303,Never been introduced to it properly,Unfamiliarity,Negative,Traditional Drinker
+US,Green tea (pure),304,Not worth the extra cost,Price / value,Neutral,Traditional Drinker
+CA,Regular / everyday black tea,305,Drinking hot tea is my habit,Habit / preference,Negative,Wellness Seeker
+UK,Lemon / ginger tea,306,Caffeine keeps me awake at night,Caffeine concerns,Positive,Curious Explorer
+UK,"Origin black tea (e.g. Assam, Darjeeling)",307,Want something caffeine-free,Caffeine concerns,Neutral,Wellness Seeker
+CA,Regular / everyday black tea,308,It's too expensive for what it is,Price / value,Negative,Price-Conscious Rejecter
+US,Cold brew black tea,309,The bubbles put me off,Texture / mouthfeel,Negative,Curious Explorer
+US,Chamomile tea,310,Not part of my routine,Habit / preference,Negative,Functional Benefit Seeker
+CA,Chamomile tea,311,Too much caffeine for the evening,Caffeine concerns,Negative,Functional Benefit Seeker
+US,Decaffeinated black tea,312,Not part of my routine,Habit / preference,Negative,Price-Conscious Rejecter
+CA,Instant tea powder,313,Not part of my routine,Habit / preference,Negative,Curious Explorer
+UK,Cold brew fruit and herbal tea,314,Hard to find in my local shop,Availability,Neutral,Traditional Drinker
+US,"Fruit tea (e.g. berry, peach)",315,Not convinced by the health claims,Health perception,Neutral,Functional Benefit Seeker
+US,Regular / everyday black tea,316,Not familiar with how to drink it,Unfamiliarity,Negative,Wellness Seeker
+CA,Instant tea powder,317,Too watery for me,Texture / mouthfeel,Negative,Convenience Buyer
+CA,"Fruit tea (e.g. berry, peach)",318,I find it bland and watery,Taste / flavour,Negative,Wellness Seeker
+CA,Peppermint tea,319,Not worth the extra cost,Price / value,Negative,Wellness Seeker
+UK,"Benefit / functional tea (sleep, detox, immunity)",320,Hard to find in my local shop,Availability,Neutral,Curious Explorer
+US,English Breakfast / extra-strong black tea,321,Just doesn't taste nice,Taste / flavour,Neutral,Functional Benefit Seeker
+US,Cold brew fruit and herbal tea,322,Want something caffeine-free,Caffeine concerns,Negative,Traditional Drinker
+CA,"Benefit / functional tea (sleep, detox, immunity)",323,Je n'aime pas le goût,Taste / flavour,Negative,Convenience Buyer
+UK,Chamomile tea,324,Looking for healthier alternatives,Health perception,Negative,Wellness Seeker
+US,"Origin black tea (e.g. Assam, Darjeeling)",325,Drinking hot tea is my habit,Habit / preference,Negative,Functional Benefit Seeker
+CA,Instant tea powder,326,I stick to what I know,Habit / preference,Negative,Price-Conscious Rejecter
+CA,Chamomile tea,327,Caffeine keeps me awake at night,Caffeine concerns,Negative,Convenience Buyer
+CA,Chai tea,328,Too much caffeine for the evening,Caffeine concerns,Negative,Curious Explorer
+UK,Matcha tea,329,Too much effort to prepare properly,Brewing complexity,Negative,Convenience Buyer
+US,Other tea (e.g. white tea),330,Hard to find in my local shop,Availability,Neutral,Functional Benefit Seeker
+UK,Green tea decaffeinated,331,Just doesn't taste nice,Taste / flavour,Negative,Curious Explorer
+UK,Flavoured black tea (e.g. Earl Grey),332,Don't know much about this type,Unfamiliarity,Negative,Functional Benefit Seeker
+CA,Decaffeinated black tea,333,Je préfère le thé chaud,Habit / preference,Neutral,Convenience Buyer
+US,Other herbal tea,334,I'm trying to cut down on caffeine,Caffeine concerns,Neutral,Functional Benefit Seeker
+US,Other tea (e.g. white tea),335,I just prefer my usual tea,Habit / preference,Negative,Wellness Seeker
+US,Decaffeinated black tea,336,I don't like the grassy flavour,Taste / flavour,Neutral,Functional Benefit Seeker
+US,Bubble tea,337,I avoid caffeine for health reasons,Caffeine concerns,Negative,Price-Conscious Rejecter
+CA,Peppermint tea,338,I stick to what I know,Habit / preference,Negative,Wellness Seeker
+UK,English Breakfast / extra-strong black tea,339,Want something caffeine-free,Caffeine concerns,Negative,Traditional Drinker
+US,Bubble tea,340,Don't know much about this type,Unfamiliarity,Negative,Price-Conscious Rejecter
+UK,Peppermint tea,341,Too watery for me,Texture / mouthfeel,Negative,Traditional Drinker
+CA,Other herbal tea,342,Caffeine keeps me awake at night,Caffeine concerns,Negative,Price-Conscious Rejecter
+UK,Cold brew fruit and herbal tea,343,Too much effort to prepare properly,Brewing complexity,Neutral,Traditional Drinker
+US,Other cold brew tea,344,I'm trying to cut down on caffeine,Caffeine concerns,Negative,Traditional Drinker
+US,Green tea (pure),345,Just doesn't taste nice,Taste / flavour,Negative,Wellness Seeker
+CA,Cold brew black tea,346,I drink it for wellness reasons,Health perception,Positive,Traditional Drinker
+CA,"Origin black tea (e.g. Assam, Darjeeling)",347,I don't like the grassy flavour,Taste / flavour,Negative,Wellness Seeker
+CA,Green tea (pure),348,Too much effort to prepare properly,Brewing complexity,Negative,Wellness Seeker
+UK,Peppermint tea,349,I wouldn't know where to start with it,Unfamiliarity,Neutral,Curious Explorer
+US,English Breakfast / extra-strong black tea,350,Not sure of the right water temperature,Brewing complexity,Negative,Convenience Buyer
+US,Green tea (pure),351,The aftertaste puts me off,Taste / flavour,Negative,Convenience Buyer
+UK,Cold brew fruit and herbal tea,352,I'm never sure how long to brew it,Brewing complexity,Positive,Convenience Buyer
+CA,Rooibos / red tea,353,Don't want to pay more for it,Price / value,Negative,Wellness Seeker
+UK,Chai tea,354,I always get the brewing wrong,Brewing complexity,Positive,Wellness Seeker
+CA,Instant tea powder,355,I don't like the texture,Texture / mouthfeel,Negative,Traditional Drinker
+CA,Other cold brew tea,356,Don't want to pay more for it,Price / value,Negative,Convenience Buyer
+CA,"Fruit tea (e.g. berry, peach)",357,I don't like the grassy flavour,Taste / flavour,Negative,Curious Explorer
+UK,Other tea (e.g. white tea),358,I don't like the grassy flavour,Taste / flavour,Negative,Convenience Buyer
+UK,Decaffeinated black tea,359,I don't think it's actually that healthy,Health perception,Negative,Traditional Drinker
+CA,English Breakfast / extra-strong black tea,360,I'm never sure how long to brew it,Brewing complexity,Negative,Wellness Seeker
+UK,Cold brew black tea,361,Never been introduced to it properly,Unfamiliarity,Neutral,Traditional Drinker
+US,Rooibos / red tea,362,I drink it for wellness reasons,Health perception,Negative,Curious Explorer
+UK,Other cold brew tea,363,Rarely see it on the shelf,Availability,Neutral,Convenience Buyer
+US,Cold brew green tea,364,Never been introduced to it properly,Unfamiliarity,Negative,Functional Benefit Seeker
+US,Cold brew green tea,365,Premium pricing puts me off,Price / value,Negative,Curious Explorer
+US,Decaffeinated black tea,366,Too strong a flavour for my liking,Taste / flavour,Negative,Convenience Buyer
+UK,Green tea decaffeinated,367,Already happy with my regular brew,Habit / preference,Negative,Functional Benefit Seeker
+CA,Other cold brew tea,368,Not worth the extra cost,Price / value,Neutral,Price-Conscious Rejecter
+CA,Peppermint tea,369,Flavour is too earthy,Taste / flavour,Neutral,Functional Benefit Seeker
+US,Bubble tea,370,Too much effort to prepare properly,Brewing complexity,Neutral,Functional Benefit Seeker
+US,Other tea (e.g. white tea),371,Already happy with my regular brew,Habit / preference,Negative,Convenience Buyer
+UK,Matcha tea,372,Don't want to pay more for it,Price / value,Negative,Curious Explorer
+CA,Matcha tea,373,I don't like the texture,Texture / mouthfeel,Neutral,Functional Benefit Seeker
+US,Chai tea,374,Never been introduced to it properly,Unfamiliarity,Negative,Price-Conscious Rejecter
+UK,English Breakfast / extra-strong black tea,375,Don't want to pay more for it,Price / value,Negative,Traditional Drinker
+US,Regular / everyday black tea,376,I don't like the grassy flavour,Taste / flavour,Neutral,Price-Conscious Rejecter
+UK,English Breakfast / extra-strong black tea,377,I've never really tried it,Unfamiliarity,Neutral,Functional Benefit Seeker
+US,Matcha tea,378,Flavour is too earthy,Taste / flavour,Negative,Price-Conscious Rejecter
+CA,Other tea (e.g. white tea),379,Not worth the extra cost,Price / value,Negative,Curious Explorer
+CA,Chamomile tea,380,I don't think it's actually that healthy,Health perception,Neutral,Convenience Buyer
+US,"Benefit / functional tea (sleep, detox, immunity)",381,Can't get it easily,Availability,Negative,Convenience Buyer
+US,"Benefit / functional tea (sleep, detox, immunity)",382,Too much effort to prepare properly,Brewing complexity,Neutral,Convenience Buyer
+CA,Cold brew black tea,383,The aftertaste puts me off,Taste / flavour,Negative,Convenience Buyer
+US,"Origin black tea (e.g. Assam, Darjeeling)",384,Don't want to pay more for it,Price / value,Negative,Price-Conscious Rejecter
+UK,Cold brew black tea,385,Too fiddly compared to a teabag,Brewing complexity,Neutral,Curious Explorer
+UK,Regular / everyday black tea,386,The aftertaste puts me off,Taste / flavour,Negative,Wellness Seeker
+UK,Green tea decaffeinated,387,Drinking hot tea is my habit,Habit / preference,Negative,Functional Benefit Seeker
+UK,Other cold brew tea,388,I stick to what I know,Habit / preference,Neutral,Convenience Buyer
+CA,Flavoured black tea (e.g. Earl Grey),389,Too watery for me,Texture / mouthfeel,Negative,Curious Explorer
+CA,"Origin black tea (e.g. Assam, Darjeeling)",390,I wouldn't know where to start with it,Unfamiliarity,Negative,Functional Benefit Seeker
+US,Other tea (e.g. white tea),391,I'm trying to cut down on caffeine,Caffeine concerns,Negative,Wellness Seeker
+US,Other tea (e.g. white tea),392,I've never really tried it,Unfamiliarity,Negative,Price-Conscious Rejecter
+CA,Green tea (pure),393,Tastes medicinal and unpleasant,Taste / flavour,Negative,Convenience Buyer
+UK,"Benefit / functional tea (sleep, detox, immunity)",394,I wouldn't know where to start with it,Unfamiliarity,Neutral,Convenience Buyer
+CA,Peppermint tea,395,I'm trying to cut down on caffeine,Caffeine concerns,Negative,Wellness Seeker
+US,Instant tea powder,396,I'm trying to cut down on caffeine,Caffeine concerns,Negative,Wellness Seeker
+US,Green tea (pure),397,Not sure of the right water temperature,Brewing complexity,Neutral,Wellness Seeker
+CA,Other cold brew tea,398,Je n'aime pas le goût,Taste / flavour,Positive,Convenience Buyer
+UK,"Benefit / functional tea (sleep, detox, immunity)",399,Flavour is too earthy,Taste / flavour,Negative,Curious Explorer
+CA,Bubble tea,400,Don't want to pay more for it,Price / value,Negative,Wellness Seeker
+UK,English Breakfast / extra-strong black tea,401,Want something caffeine-free,Caffeine concerns,Negative,Curious Explorer
+CA,Flavoured black tea (e.g. Earl Grey),402,I always get the brewing wrong,Brewing complexity,Neutral,Wellness Seeker
+UK,Flavoured black tea (e.g. Earl Grey),403,Too strong a flavour for my liking,Taste / flavour,Negative,Wellness Seeker
+UK,Decaffeinated black tea,404,Already happy with my regular brew,Habit / preference,Negative,Traditional Drinker
+US,Matcha tea,405,Not sure of the right water temperature,Brewing complexity,Positive,Wellness Seeker
+US,Instant tea powder,406,Not stocked where I shop,Availability,Negative,Functional Benefit Seeker
+UK,Rooibos / red tea,407,Premium pricing puts me off,Price / value,Neutral,Wellness Seeker
+CA,Matcha tea,408,Drinking hot tea is my habit,Habit / preference,Negative,Curious Explorer
+UK,Peppermint tea,409,Too fiddly compared to a teabag,Brewing complexity,Neutral,Curious Explorer
+CA,Decaffeinated black tea,410,C'est trop cher,Price / value,Negative,Wellness Seeker
+CA,Other herbal tea,411,It's too expensive for what it is,Price / value,Negative,Price-Conscious Rejecter
+CA,Green tea flavoured (e.g. lemon),412,I've never really tried it,Unfamiliarity,Negative,Convenience Buyer
+US,Flavoured black tea (e.g. Earl Grey),413,The taste is too bitter for me,Taste / flavour,Negative,Convenience Buyer
+CA,Regular / everyday black tea,414,Not stocked where I shop,Availability,Negative,Wellness Seeker
+US,Other herbal tea,415,Hard to find in my local shop,Availability,Negative,Price-Conscious Rejecter
+US,Chamomile tea,416,I find it bland and watery,Taste / flavour,Neutral,Curious Explorer
+US,Chai tea,417,Not part of my routine,Habit / preference,Neutral,Functional Benefit Seeker
+CA,Cold brew black tea,418,Je n'aime pas le goût,Taste / flavour,Negative,Price-Conscious Rejecter
+CA,Lemon / ginger tea,419,It feels gritty,Texture / mouthfeel,Negative,Traditional Drinker
+UK,"Origin black tea (e.g. Assam, Darjeeling)",420,Don't know much about this type,Unfamiliarity,Negative,Functional Benefit Seeker
+UK,Other cold brew tea,421,Not worth the extra cost,Price / value,Negative,Price-Conscious Rejecter
+CA,Other cold brew tea,422,The taste is too bitter for me,Taste / flavour,Negative,Curious Explorer
+CA,Chai tea,423,Cheaper options do the same job,Price / value,Neutral,Curious Explorer
+US,Other tea (e.g. white tea),424,I wouldn't know where to start with it,Unfamiliarity,Negative,Convenience Buyer
+US,English Breakfast / extra-strong black tea,425,I don't like the grassy flavour,Taste / flavour,Negative,Price-Conscious Rejecter
+US,"Origin black tea (e.g. Assam, Darjeeling)",426,Already happy with my regular brew,Habit / preference,Negative,Curious Explorer
+UK,"Fruit tea (e.g. berry, peach)",427,I'm trying to cut down on caffeine,Caffeine concerns,Negative,Traditional Drinker
+CA,English Breakfast / extra-strong black tea,428,Caffeine keeps me awake at night,Caffeine concerns,Negative,Functional Benefit Seeker
+US,Other tea (e.g. white tea),429,Flavour is too earthy,Taste / flavour,Negative,Price-Conscious Rejecter
+UK,Regular / everyday black tea,430,Don't want to pay more for it,Price / value,Negative,Price-Conscious Rejecter
+US,Bubble tea,431,Don't know much about this type,Unfamiliarity,Negative,Convenience Buyer
+UK,Cold brew fruit and herbal tea,432,I find it bland and watery,Taste / flavour,Negative,Functional Benefit Seeker
+US,Lemon / ginger tea,433,I'm never sure how long to brew it,Brewing complexity,Negative,Traditional Drinker
+UK,Chamomile tea,434,I'm never sure how long to brew it,Brewing complexity,Neutral,Traditional Drinker
+CA,"Benefit / functional tea (sleep, detox, immunity)",435,Je ne connais pas ce type de thé,Unfamiliarity,Negative,Price-Conscious Rejecter
+UK,Flavoured black tea (e.g. Earl Grey),436,Can't get it easily,Availability,Negative,Curious Explorer
+US,Green tea (pure),437,Too fiddly compared to a teabag,Brewing complexity,Positive,Functional Benefit Seeker
+US,Green tea decaffeinated,438,The taste is too bitter for me,Taste / flavour,Negative,Convenience Buyer
+UK,Lemon / ginger tea,439,Just doesn't taste nice,Taste / flavour,Negative,Curious Explorer
+US,Flavoured black tea (e.g. Earl Grey),440,Want something caffeine-free,Caffeine concerns,Negative,Convenience Buyer
+UK,Green tea decaffeinated,441,It's too expensive for what it is,Price / value,Neutral,Curious Explorer
+UK,English Breakfast / extra-strong black tea,442,Not sure of the right water temperature,Brewing complexity,Negative,Price-Conscious Rejecter
+UK,Other tea (e.g. white tea),443,Rarely see it on the shelf,Availability,Negative,Convenience Buyer
+CA,"Fruit tea (e.g. berry, peach)",444,Want something caffeine-free,Caffeine concerns,Negative,Curious Explorer
+CA,"Origin black tea (e.g. Assam, Darjeeling)",445,Too fiddly compared to a teabag,Brewing complexity,Neutral,Wellness Seeker
+US,"Fruit tea (e.g. berry, peach)",446,I drink it for wellness reasons,Health perception,Negative,Traditional Drinker
+UK,Bubble tea,447,Already happy with my regular brew,Habit / preference,Positive,Curious Explorer
+US,Rooibos / red tea,448,I don't think it's actually that healthy,Health perception,Neutral,Wellness Seeker
+CA,Green tea (pure),449,Just doesn't taste nice,Taste / flavour,Negative,Traditional Drinker
+US,Other herbal tea,450,It's too expensive for what it is,Price / value,Negative,Curious Explorer
+UK,Bubble tea,451,Want something caffeine-free,Caffeine concerns,Negative,Curious Explorer
+CA,Green tea flavoured (e.g. lemon),452,Can't get it easily,Availability,Negative,Convenience Buyer
+UK,Green tea (pure),453,I've never really tried it,Unfamiliarity,Negative,Traditional Drinker
+US,Peppermint tea,454,Flavour is too earthy,Taste / flavour,Negative,Traditional Drinker
+UK,Cold brew fruit and herbal tea,455,The aftertaste puts me off,Taste / flavour,Negative,Convenience Buyer
+CA,Chamomile tea,456,I avoid caffeine for health reasons,Caffeine concerns,Neutral,Traditional Drinker
+UK,Cold brew green tea,457,Never been introduced to it properly,Unfamiliarity,Negative,Wellness Seeker
+US,Green tea flavoured (e.g. lemon),458,I avoid caffeine for health reasons,Caffeine concerns,Negative,Functional Benefit Seeker
+CA,Decaffeinated black tea,459,Not part of my routine,Habit / preference,Negative,Functional Benefit Seeker
+CA,"Origin black tea (e.g. Assam, Darjeeling)",460,Not stocked where I shop,Availability,Negative,Functional Benefit Seeker
+US,Instant tea powder,461,The taste is too bitter for me,Taste / flavour,Negative,Price-Conscious Rejecter
+US,Other tea (e.g. white tea),462,I don't like the texture,Texture / mouthfeel,Positive,Convenience Buyer
+CA,Cold brew black tea,463,Never been introduced to it properly,Unfamiliarity,Negative,Functional Benefit Seeker
+UK,English Breakfast / extra-strong black tea,464,The bubbles put me off,Texture / mouthfeel,Negative,Convenience Buyer
+UK,"Benefit / functional tea (sleep, detox, immunity)",465,Prefer options with proven benefits,Health perception,Negative,Functional Benefit Seeker
+US,English Breakfast / extra-strong black tea,466,It's too expensive for what it is,Price / value,Negative,Curious Explorer
+US,Decaffeinated black tea,467,I wouldn't know where to start with it,Unfamiliarity,Positive,Price-Conscious Rejecter
+CA,"Benefit / functional tea (sleep, detox, immunity)",468,I don't like the texture,Texture / mouthfeel,Negative,Curious Explorer
+US,Instant tea powder,469,Drinking hot tea is my habit,Habit / preference,Negative,Traditional Drinker
+CA,"Origin black tea (e.g. Assam, Darjeeling)",470,Too watery for me,Texture / mouthfeel,Negative,Curious Explorer
+CA,Cold brew black tea,471,I don't like the grassy flavour,Taste / flavour,Negative,Curious Explorer
+US,Rooibos / red tea,472,I just prefer my usual tea,Habit / preference,Negative,Curious Explorer
+US,"Origin black tea (e.g. Assam, Darjeeling)",473,I find it bland and watery,Taste / flavour,Negative,Curious Explorer
+UK,Chai tea,474,Mouthfeel is strange,Texture / mouthfeel,Negative,Price-Conscious Rejecter
+CA,Flavoured black tea (e.g. Earl Grey),475,I just prefer my usual tea,Habit / preference,Positive,Convenience Buyer
+US,Flavoured black tea (e.g. Earl Grey),476,The bubbles put me off,Texture / mouthfeel,Negative,Curious Explorer
+US,Matcha tea,477,I just prefer my usual tea,Habit / preference,Negative,Functional Benefit Seeker
+CA,Matcha tea,478,Not convinced by the health claims,Health perception,Neutral,Wellness Seeker
+UK,Cold brew fruit and herbal tea,479,The aftertaste puts me off,Taste / flavour,Neutral,Traditional Drinker
+CA,Cold brew fruit and herbal tea,480,I wouldn't know where to start with it,Unfamiliarity,Negative,Functional Benefit Seeker
+UK,Bubble tea,481,The taste is too bitter for me,Taste / flavour,Negative,Convenience Buyer
+US,English Breakfast / extra-strong black tea,482,The bubbles put me off,Texture / mouthfeel,Negative,Traditional Drinker
+US,Chamomile tea,483,I'm trying to cut down on caffeine,Caffeine concerns,Negative,Wellness Seeker
+UK,"Fruit tea (e.g. berry, peach)",484,I wouldn't know where to start with it,Unfamiliarity,Negative,Traditional Drinker
+UK,Green tea decaffeinated,485,Too fiddly compared to a teabag,Brewing complexity,Neutral,Price-Conscious Rejecter
+UK,Matcha tea,486,Want something caffeine-free,Caffeine concerns,Negative,Curious Explorer
+US,Matcha tea,487,Takes too long to make,Brewing complexity,Negative,Traditional Drinker
+CA,"Benefit / functional tea (sleep, detox, immunity)",488,Mouthfeel is strange,Texture / mouthfeel,Negative,Traditional Drinker
+CA,Peppermint tea,489,Tastes medicinal and unpleasant,Taste / flavour,Negative,Price-Conscious Rejecter
+US,Cold brew fruit and herbal tea,490,Not familiar with how to drink it,Unfamiliarity,Negative,Curious Explorer
+US,Green tea decaffeinated,491,It's too expensive for what it is,Price / value,Negative,Price-Conscious Rejecter
+CA,Bubble tea,492,Premium pricing puts me off,Price / value,Neutral,Curious Explorer
+CA,Other tea (e.g. white tea),493,The taste is too bitter for me,Taste / flavour,Negative,Curious Explorer
+CA,Flavoured black tea (e.g. Earl Grey),494,I'm trying to cut down on caffeine,Caffeine concerns,Negative,Traditional Drinker
+CA,Cold brew fruit and herbal tea,495,Caffeine keeps me awake at night,Caffeine concerns,Negative,Price-Conscious Rejecter
+CA,Other cold brew tea,496,Drinking hot tea is my habit,Habit / preference,Neutral,Functional Benefit Seeker
+CA,Other cold brew tea,497,Want something caffeine-free,Caffeine concerns,Negative,Convenience Buyer
+CA,Bubble tea,498,Not worth the extra cost,Price / value,Negative,Functional Benefit Seeker
+UK,Chamomile tea,499,Not stocked where I shop,Availability,Neutral,Curious Explorer
+UK,Instant tea powder,500,Want something caffeine-free,Caffeine concerns,Negative,Traditional Drinker
+CA,"Origin black tea (e.g. Assam, Darjeeling)",501,The aftertaste puts me off,Taste / flavour,Negative,Price-Conscious Rejecter
+UK,Flavoured black tea (e.g. Earl Grey),502,Not part of my routine,Habit / preference,Positive,Curious Explorer
+UK,Bubble tea,503,Takes too long to make,Brewing complexity,Neutral,Functional Benefit Seeker
+UK,Lemon / ginger tea,504,Too fiddly compared to a teabag,Brewing complexity,Negative,Functional Benefit Seeker
+CA,Cold brew fruit and herbal tea,505,Already happy with my regular brew,Habit / preference,Negative,Traditional Drinker
+UK,"Fruit tea (e.g. berry, peach)",506,Not worth the extra cost,Price / value,Neutral,Traditional Drinker
+CA,Cold brew fruit and herbal tea,507,It feels gritty,Texture / mouthfeel,Neutral,Wellness Seeker
+UK,Green tea flavoured (e.g. lemon),508,Caffeine keeps me awake at night,Caffeine concerns,Neutral,Functional Benefit Seeker
+US,Chai tea,509,Can't get it easily,Availability,Negative,Price-Conscious Rejecter
+US,"Fruit tea (e.g. berry, peach)",510,Too fiddly compared to a teabag,Brewing complexity,Negative,Curious Explorer
+UK,Flavoured black tea (e.g. Earl Grey),511,Too much effort to prepare properly,Brewing complexity,Neutral,Wellness Seeker
+CA,Rooibos / red tea,512,Don't want to pay more for it,Price / value,Neutral,Wellness Seeker
+US,Cold brew black tea,513,Prefer options with proven benefits,Health perception,Negative,Price-Conscious Rejecter
+US,Decaffeinated black tea,514,Rarely see it on the shelf,Availability,Neutral,Price-Conscious Rejecter
+UK,"Origin black tea (e.g. Assam, Darjeeling)",515,I'm trying to cut down on caffeine,Caffeine concerns,Negative,Traditional Drinker
+CA,Bubble tea,516,The taste is too bitter for me,Taste / flavour,Neutral,Curious Explorer
+UK,Green tea decaffeinated,517,Already happy with my regular brew,Habit / preference,Negative,Price-Conscious Rejecter
+CA,Other tea (e.g. white tea),518,I stick to what I know,Habit / preference,Neutral,Price-Conscious Rejecter
+UK,Green tea decaffeinated,519,Cheaper options do the same job,Price / value,Neutral,Wellness Seeker
+US,Green tea flavoured (e.g. lemon),520,Don't want to pay more for it,Price / value,Negative,Curious Explorer
+CA,Cold brew fruit and herbal tea,521,I've never really tried it,Unfamiliarity,Negative,Wellness Seeker
+UK,Regular / everyday black tea,522,I'm never sure how long to brew it,Brewing complexity,Neutral,Traditional Drinker
+UK,Instant tea powder,523,Can't get it easily,Availability,Neutral,Functional Benefit Seeker
+US,Bubble tea,524,I find it bland and watery,Taste / flavour,Neutral,Wellness Seeker
+CA,Matcha tea,525,Too strong a flavour for my liking,Taste / flavour,Neutral,Functional Benefit Seeker
+CA,Other tea (e.g. white tea),526,Not convinced by the health claims,Health perception,Negative,Convenience Buyer
+UK,Cold brew fruit and herbal tea,527,Tastes medicinal and unpleasant,Taste / flavour,Positive,Curious Explorer
+US,"Benefit / functional tea (sleep, detox, immunity)",528,Flavour is too earthy,Taste / flavour,Positive,Price-Conscious Rejecter
+UK,Flavoured black tea (e.g. Earl Grey),529,Drinking hot tea is my habit,Habit / preference,Neutral,Convenience Buyer
+US,Chamomile tea,530,I stick to what I know,Habit / preference,Neutral,Traditional Drinker
+UK,Other herbal tea,531,Don't know much about this type,Unfamiliarity,Neutral,Functional Benefit Seeker
+US,Rooibos / red tea,532,Takes too long to make,Brewing complexity,Negative,Price-Conscious Rejecter
+CA,English Breakfast / extra-strong black tea,533,Just doesn't taste nice,Taste / flavour,Negative,Convenience Buyer
+UK,Cold brew green tea,534,It feels gritty,Texture / mouthfeel,Negative,Traditional Drinker
+CA,"Benefit / functional tea (sleep, detox, immunity)",535,Too watery for me,Texture / mouthfeel,Positive,Wellness Seeker
+CA,English Breakfast / extra-strong black tea,536,Too much caffeine for the evening,Caffeine concerns,Neutral,Convenience Buyer
+US,Green tea decaffeinated,537,I'm never sure how long to brew it,Brewing complexity,Negative,Traditional Drinker
+CA,Decaffeinated black tea,538,Hard to find in my local shop,Availability,Negative,Functional Benefit Seeker
+UK,Cold brew black tea,539,Looking for healthier alternatives,Health perception,Negative,Wellness Seeker
+UK,Cold brew black tea,540,Not part of my routine,Habit / preference,Negative,Traditional Drinker
+US,Peppermint tea,541,Caffeine keeps me awake at night,Caffeine concerns,Positive,Convenience Buyer
+UK,Rooibos / red tea,542,The aftertaste puts me off,Taste / flavour,Neutral,Convenience Buyer
+US,Green tea decaffeinated,543,Not familiar with how to drink it,Unfamiliarity,Negative,Price-Conscious Rejecter
+UK,Cold brew black tea,544,Not part of my routine,Habit / preference,Negative,Wellness Seeker
+UK,Instant tea powder,545,Not worth the extra cost,Price / value,Negative,Functional Benefit Seeker
+CA,Green tea flavoured (e.g. lemon),546,C'est trop cher,Price / value,Negative,Curious Explorer
+CA,Peppermint tea,547,I don't like the texture,Texture / mouthfeel,Negative,Price-Conscious Rejecter
+CA,Other tea (e.g. white tea),548,Too watery for me,Texture / mouthfeel,Neutral,Traditional Drinker
+CA,Cold brew green tea,549,Never been introduced to it properly,Unfamiliarity,Negative,Convenience Buyer
+CA,English Breakfast / extra-strong black tea,550,I don't like the grassy flavour,Taste / flavour,Negative,Wellness Seeker
+US,Bubble tea,551,Hard to find in my local shop,Availability,Neutral,Convenience Buyer
+UK,"Origin black tea (e.g. Assam, Darjeeling)",552,Not worth the extra cost,Price / value,Neutral,Convenience Buyer
+US,Regular / everyday black tea,553,I'm trying to cut down on caffeine,Caffeine concerns,Negative,Convenience Buyer
+CA,Instant tea powder,554,Not sure of the right water temperature,Brewing complexity,Negative,Convenience Buyer
+UK,Other tea (e.g. white tea),555,Not worth the extra cost,Price / value,Negative,Curious Explorer
+US,Lemon / ginger tea,556,I wouldn't know where to start with it,Unfamiliarity,Negative,Convenience Buyer
+CA,Green tea decaffeinated,557,Not worth the extra cost,Price / value,Negative,Functional Benefit Seeker
+UK,"Fruit tea (e.g. berry, peach)",558,Never been introduced to it properly,Unfamiliarity,Negative,Price-Conscious Rejecter
+CA,Decaffeinated black tea,559,Not part of my routine,Habit / preference,Negative,Price-Conscious Rejecter
+CA,Other tea (e.g. white tea),560,Want something caffeine-free,Caffeine concerns,Negative,Price-Conscious Rejecter
+UK,English Breakfast / extra-strong black tea,561,Not part of my routine,Habit / preference,Negative,Traditional Drinker
+US,Instant tea powder,562,I don't think it's actually that healthy,Health perception,Negative,Wellness Seeker
+UK,Cold brew black tea,563,I avoid caffeine for health reasons,Caffeine concerns,Negative,Convenience Buyer
+CA,Cold brew fruit and herbal tea,564,The taste is too bitter for me,Taste / flavour,Negative,Traditional Drinker
+UK,Chai tea,565,Tastes medicinal and unpleasant,Taste / flavour,Negative,Wellness Seeker
+UK,Green tea decaffeinated,566,Not sure of the right water temperature,Brewing complexity,Negative,Price-Conscious Rejecter
+UK,Instant tea powder,567,Cheaper options do the same job,Price / value,Neutral,Wellness Seeker
+US,Regular / everyday black tea,568,Hard to find in my local shop,Availability,Positive,Convenience Buyer
+CA,Cold brew fruit and herbal tea,569,Takes too long to make,Brewing complexity,Negative,Traditional Drinker
+UK,Bubble tea,570,I avoid caffeine for health reasons,Caffeine concerns,Negative,Price-Conscious Rejecter
+UK,Cold brew black tea,571,Rarely see it on the shelf,Availability,Negative,Functional Benefit Seeker
+UK,"Origin black tea (e.g. Assam, Darjeeling)",572,Too watery for me,Texture / mouthfeel,Negative,Convenience Buyer
+UK,"Origin black tea (e.g. Assam, Darjeeling)",573,I've never really tried it,Unfamiliarity,Negative,Curious Explorer
+UK,Green tea decaffeinated,574,Premium pricing puts me off,Price / value,Negative,Price-Conscious Rejecter
+US,Lemon / ginger tea,575,Rarely see it on the shelf,Availability,Negative,Functional Benefit Seeker
+UK,English Breakfast / extra-strong black tea,576,I just prefer my usual tea,Habit / preference,Negative,Traditional Drinker
+CA,"Origin black tea (e.g. Assam, Darjeeling)",577,Not part of my routine,Habit / preference,Negative,Functional Benefit Seeker
+CA,Green tea decaffeinated,578,I wouldn't know where to start with it,Unfamiliarity,Negative,Convenience Buyer
+CA,Bubble tea,579,Not stocked where I shop,Availability,Negative,Price-Conscious Rejecter
+US,"Benefit / functional tea (sleep, detox, immunity)",580,Can't get it easily,Availability,Negative,Price-Conscious Rejecter
+US,Regular / everyday black tea,581,Looking for healthier alternatives,Health perception,Negative,Price-Conscious Rejecter
+US,Other tea (e.g. white tea),582,Not stocked where I shop,Availability,Negative,Functional Benefit Seeker
+US,"Benefit / functional tea (sleep, detox, immunity)",583,Never been introduced to it properly,Unfamiliarity,Neutral,Wellness Seeker
+US,Cold brew green tea,584,Rarely see it on the shelf,Availability,Neutral,Functional Benefit Seeker
+CA,Chamomile tea,585,I don't like the texture,Texture / mouthfeel,Negative,Price-Conscious Rejecter
+US,Chai tea,586,Tastes medicinal and unpleasant,Taste / flavour,Neutral,Functional Benefit Seeker
+CA,Rooibos / red tea,587,Want something caffeine-free,Caffeine concerns,Neutral,Functional Benefit Seeker
+US,Flavoured black tea (e.g. Earl Grey),588,Not sure of the right water temperature,Brewing complexity,Neutral,Functional Benefit Seeker
+US,Instant tea powder,589,Too much caffeine for the evening,Caffeine concerns,Negative,Wellness Seeker
+US,Other cold brew tea,590,Never been introduced to it properly,Unfamiliarity,Neutral,Traditional Drinker
+UK,Matcha tea,591,Too strong a flavour for my liking,Taste / flavour,Negative,Convenience Buyer
+CA,Cold brew black tea,592,I'm trying to cut down on caffeine,Caffeine concerns,Negative,Traditional Drinker
+US,Chai tea,593,Hard to find in my local shop,Availability,Negative,Traditional Drinker
+CA,Other tea (e.g. white tea),594,Rarely see it on the shelf,Availability,Negative,Functional Benefit Seeker
+UK,Other cold brew tea,595,Not worth the extra cost,Price / value,Neutral,Functional Benefit Seeker
+UK,Cold brew black tea,596,I'm trying to cut down on caffeine,Caffeine concerns,Neutral,Functional Benefit Seeker
+UK,Other cold brew tea,597,Caffeine keeps me awake at night,Caffeine concerns,Negative,Wellness Seeker
+CA,Cold brew green tea,598,Rarely see it on the shelf,Availability,Neutral,Convenience Buyer
+CA,Green tea flavoured (e.g. lemon),599,Cheaper options do the same job,Price / value,Negative,Traditional Drinker
+CA,Chai tea,600,Don't know much about this type,Unfamiliarity,Neutral,Curious Explorer
+US,Decaffeinated black tea,601,Not part of my routine,Habit / preference,Negative,Curious Explorer
+US,Other cold brew tea,602,Don't want to pay more for it,Price / value,Negative,Price-Conscious Rejecter
+CA,Lemon / ginger tea,603,It's too expensive for what it is,Price / value,Negative,Wellness Seeker
+CA,Rooibos / red tea,604,I avoid caffeine for health reasons,Caffeine concerns,Negative,Wellness Seeker
+UK,"Benefit / functional tea (sleep, detox, immunity)",605,It's too expensive for what it is,Price / value,Negative,Convenience Buyer
+CA,Lemon / ginger tea,606,Too much caffeine for the evening,Caffeine concerns,Negative,Price-Conscious Rejecter
+US,Regular / everyday black tea,607,Too much caffeine for the evening,Caffeine concerns,Negative,Convenience Buyer
+US,Chai tea,608,Cheaper options do the same job,Price / value,Negative,Curious Explorer
+US,"Fruit tea (e.g. berry, peach)",609,It feels gritty,Texture / mouthfeel,Negative,Curious Explorer
+UK,Cold brew fruit and herbal tea,610,Too strong a flavour for my liking,Taste / flavour,Negative,Curious Explorer
+CA,Green tea (pure),611,Trop amer pour moi,Taste / flavour,Negative,Curious Explorer
+US,"Benefit / functional tea (sleep, detox, immunity)",612,I always get the brewing wrong,Brewing complexity,Neutral,Traditional Drinker
+US,Lemon / ginger tea,613,Already happy with my regular brew,Habit / preference,Negative,Wellness Seeker
+CA,Flavoured black tea (e.g. Earl Grey),614,Too fiddly compared to a teabag,Brewing complexity,Negative,Convenience Buyer
+US,Flavoured black tea (e.g. Earl Grey),615,Too much caffeine for the evening,Caffeine concerns,Negative,Price-Conscious Rejecter
+CA,Peppermint tea,616,Not familiar with how to drink it,Unfamiliarity,Positive,Functional Benefit Seeker
+US,Lemon / ginger tea,617,Not worth the extra cost,Price / value,Negative,Wellness Seeker
+CA,Cold brew green tea,618,I wouldn't know where to start with it,Unfamiliarity,Negative,Price-Conscious Rejecter
+UK,"Benefit / functional tea (sleep, detox, immunity)",619,Already happy with my regular brew,Habit / preference,Negative,Price-Conscious Rejecter
+UK,Matcha tea,620,The taste is too bitter for me,Taste / flavour,Negative,Convenience Buyer
+CA,Regular / everyday black tea,621,Not familiar with how to drink it,Unfamiliarity,Negative,Price-Conscious Rejecter
+UK,Matcha tea,622,Tastes medicinal and unpleasant,Taste / flavour,Neutral,Functional Benefit Seeker
+CA,Green tea decaffeinated,623,It's too expensive for what it is,Price / value,Negative,Wellness Seeker
+CA,Matcha tea,624,Too strong a flavour for my liking,Taste / flavour,Negative,Wellness Seeker
+CA,Decaffeinated black tea,625,I avoid caffeine for health reasons,Caffeine concerns,Negative,Wellness Seeker
+CA,Matcha tea,626,The bubbles put me off,Texture / mouthfeel,Negative,Traditional Drinker
+US,Bubble tea,627,Want something caffeine-free,Caffeine concerns,Negative,Traditional Drinker
+UK,"Origin black tea (e.g. Assam, Darjeeling)",628,I'm never sure how long to brew it,Brewing complexity,Negative,Functional Benefit Seeker
+US,Other tea (e.g. white tea),629,Flavour is too earthy,Taste / flavour,Negative,Traditional Drinker
+UK,Regular / everyday black tea,630,I drink it for wellness reasons,Health perception,Negative,Curious Explorer
+CA,Green tea decaffeinated,631,Too much effort to prepare properly,Brewing complexity,Negative,Convenience Buyer
+UK,Green tea (pure),632,Drinking hot tea is my habit,Habit / preference,Negative,Convenience Buyer
+US,Other cold brew tea,633,Already happy with my regular brew,Habit / preference,Negative,Wellness Seeker
+CA,Decaffeinated black tea,634,Too much caffeine for the evening,Caffeine concerns,Negative,Price-Conscious Rejecter
+CA,"Origin black tea (e.g. Assam, Darjeeling)",635,Takes too long to make,Brewing complexity,Negative,Wellness Seeker
+US,Green tea decaffeinated,636,Already happy with my regular brew,Habit / preference,Negative,Traditional Drinker
+UK,"Benefit / functional tea (sleep, detox, immunity)",637,Too much caffeine for the evening,Caffeine concerns,Neutral,Wellness Seeker
+CA,Decaffeinated black tea,638,It feels gritty,Texture / mouthfeel,Negative,Traditional Drinker
+CA,Matcha tea,639,Trop amer pour moi,Taste / flavour,Negative,Convenience Buyer
+US,Other herbal tea,640,Not familiar with how to drink it,Unfamiliarity,Negative,Wellness Seeker
+UK,"Fruit tea (e.g. berry, peach)",641,Don't know much about this type,Unfamiliarity,Negative,Functional Benefit Seeker
+CA,Green tea decaffeinated,642,I stick to what I know,Habit / preference,Negative,Price-Conscious Rejecter
+UK,Cold brew green tea,643,Mouthfeel is strange,Texture / mouthfeel,Negative,Price-Conscious Rejecter
+US,Green tea flavoured (e.g. lemon),644,I avoid caffeine for health reasons,Caffeine concerns,Neutral,Convenience Buyer
+UK,Other cold brew tea,645,Caffeine keeps me awake at night,Caffeine concerns,Negative,Traditional Drinker
+US,"Fruit tea (e.g. berry, peach)",646,Not convinced by the health claims,Health perception,Negative,Functional Benefit Seeker
+UK,"Benefit / functional tea (sleep, detox, immunity)",647,Don't know much about this type,Unfamiliarity,Negative,Wellness Seeker
+UK,Cold brew green tea,648,Caffeine keeps me awake at night,Caffeine concerns,Negative,Traditional Drinker
+UK,Cold brew black tea,649,It's too expensive for what it is,Price / value,Positive,Price-Conscious Rejecter
+CA,Cold brew green tea,650,Je ne connais pas ce type de thé,Unfamiliarity,Negative,Curious Explorer
+UK,Instant tea powder,651,I stick to what I know,Habit / preference,Neutral,Convenience Buyer
+UK,"Fruit tea (e.g. berry, peach)",652,Never been introduced to it properly,Unfamiliarity,Negative,Curious Explorer
+CA,Cold brew fruit and herbal tea,653,I don't think it's actually that healthy,Health perception,Negative,Price-Conscious Rejecter
+UK,Green tea (pure),654,Not part of my routine,Habit / preference,Negative,Traditional Drinker
+US,Cold brew black tea,655,The aftertaste puts me off,Taste / flavour,Neutral,Wellness Seeker
+UK,Green tea flavoured (e.g. lemon),656,Never been introduced to it properly,Unfamiliarity,Positive,Curious Explorer
+CA,Rooibos / red tea,657,I just prefer my usual tea,Habit / preference,Positive,Traditional Drinker
+UK,"Fruit tea (e.g. berry, peach)",658,Caffeine keeps me awake at night,Caffeine concerns,Negative,Functional Benefit Seeker
+US,Chamomile tea,659,Flavour is too earthy,Taste / flavour,Negative,Traditional Drinker
+US,Rooibos / red tea,660,Too strong a flavour for my liking,Taste / flavour,Negative,Traditional Drinker
+US,Instant tea powder,661,Tastes medicinal and unpleasant,Taste / flavour,Negative,Convenience Buyer
+US,Regular / everyday black tea,662,Never been introduced to it properly,Unfamiliarity,Negative,Convenience Buyer
+CA,"Origin black tea (e.g. Assam, Darjeeling)",663,Flavour is too earthy,Taste / flavour,Negative,Price-Conscious Rejecter
+US,Chai tea,664,Drinking hot tea is my habit,Habit / preference,Negative,Price-Conscious Rejecter
+CA,Chamomile tea,665,I just prefer my usual tea,Habit / preference,Neutral,Convenience Buyer
+CA,Bubble tea,666,The aftertaste puts me off,Taste / flavour,Negative,Traditional Drinker
+UK,Rooibos / red tea,667,Takes too long to make,Brewing complexity,Negative,Convenience Buyer
+UK,Lemon / ginger tea,668,I avoid caffeine for health reasons,Caffeine concerns,Negative,Curious Explorer
+CA,Other cold brew tea,669,Flavour is too earthy,Taste / flavour,Neutral,Convenience Buyer
+US,Green tea decaffeinated,670,Already happy with my regular brew,Habit / preference,Positive,Convenience Buyer
+CA,Green tea (pure),671,Je ne connais pas ce type de thé,Unfamiliarity,Negative,Price-Conscious Rejecter
+US,Matcha tea,672,I wouldn't know where to start with it,Unfamiliarity,Negative,Curious Explorer
+CA,English Breakfast / extra-strong black tea,673,Rarely see it on the shelf,Availability,Negative,Functional Benefit Seeker
+CA,Flavoured black tea (e.g. Earl Grey),674,Mouthfeel is strange,Texture / mouthfeel,Negative,Functional Benefit Seeker
+US,Bubble tea,675,I'm never sure how long to brew it,Brewing complexity,Negative,Traditional Drinker
+US,"Origin black tea (e.g. Assam, Darjeeling)",676,The bubbles put me off,Texture / mouthfeel,Negative,Price-Conscious Rejecter
+US,Green tea flavoured (e.g. lemon),677,Don't know much about this type,Unfamiliarity,Negative,Functional Benefit Seeker
+CA,Other herbal tea,678,C'est trop cher,Price / value,Positive,Curious Explorer
+CA,"Benefit / functional tea (sleep, detox, immunity)",679,Don't know much about this type,Unfamiliarity,Negative,Convenience Buyer
+US,Peppermint tea,680,I don't think it's actually that healthy,Health perception,Negative,Price-Conscious Rejecter
+US,"Origin black tea (e.g. Assam, Darjeeling)",681,Don't want to pay more for it,Price / value,Negative,Curious Explorer
+CA,Other cold brew tea,682,C'est trop cher,Price / value,Negative,Traditional Drinker
+CA,Green tea flavoured (e.g. lemon),683,Je ne connais pas ce type de thé,Unfamiliarity,Negative,Functional Benefit Seeker
+UK,Other cold brew tea,684,Already happy with my regular brew,Habit / preference,Neutral,Traditional Drinker
+US,Cold brew fruit and herbal tea,685,Prefer options with proven benefits,Health perception,Negative,Traditional Drinker
+US,Other cold brew tea,686,Mouthfeel is strange,Texture / mouthfeel,Negative,Wellness Seeker
+US,Decaffeinated black tea,687,I'm never sure how long to brew it,Brewing complexity,Negative,Curious Explorer
+CA,"Origin black tea (e.g. Assam, Darjeeling)",688,I find it bland and watery,Taste / flavour,Negative,Price-Conscious Rejecter
+CA,Green tea decaffeinated,689,I don't think it's actually that healthy,Health perception,Negative,Functional Benefit Seeker
+CA,English Breakfast / extra-strong black tea,690,Too strong a flavour for my liking,Taste / flavour,Negative,Traditional Drinker
+UK,Lemon / ginger tea,691,Takes too long to make,Brewing complexity,Negative,Traditional Drinker
+UK,Regular / everyday black tea,692,Just doesn't taste nice,Taste / flavour,Negative,Traditional Drinker
+US,Bubble tea,693,Caffeine keeps me awake at night,Caffeine concerns,Negative,Convenience Buyer
+US,Bubble tea,694,Don't want to pay more for it,Price / value,Negative,Wellness Seeker
+UK,Flavoured black tea (e.g. Earl Grey),695,The aftertaste puts me off,Taste / flavour,Neutral,Functional Benefit Seeker
+US,Other herbal tea,696,Too fiddly compared to a teabag,Brewing complexity,Negative,Convenience Buyer
+US,Other herbal tea,697,I'm never sure how long to brew it,Brewing complexity,Neutral,Wellness Seeker
+UK,"Fruit tea (e.g. berry, peach)",698,Too much effort to prepare properly,Brewing complexity,Negative,Price-Conscious Rejecter
+UK,Decaffeinated black tea,699,It's too expensive for what it is,Price / value,Negative,Wellness Seeker
+CA,Peppermint tea,700,Too fiddly compared to a teabag,Brewing complexity,Negative,Functional Benefit Seeker
+US,Cold brew black tea,701,Not worth the extra cost,Price / value,Negative,Price-Conscious Rejecter
+UK,Other herbal tea,702,Don't know much about this type,Unfamiliarity,Neutral,Convenience Buyer
+US,English Breakfast / extra-strong black tea,703,Caffeine keeps me awake at night,Caffeine concerns,Negative,Functional Benefit Seeker
+US,Green tea decaffeinated,704,I avoid caffeine for health reasons,Caffeine concerns,Positive,Traditional Drinker
+US,Cold brew black tea,705,I just prefer my usual tea,Habit / preference,Neutral,Traditional Drinker
+UK,Chamomile tea,706,Already happy with my regular brew,Habit / preference,Neutral,Price-Conscious Rejecter
+US,Green tea decaffeinated,707,Not part of my routine,Habit / preference,Negative,Functional Benefit Seeker
+CA,Regular / everyday black tea,708,I drink it for wellness reasons,Health perception,Negative,Curious Explorer
+US,Green tea decaffeinated,709,Want something caffeine-free,Caffeine concerns,Negative,Wellness Seeker
+US,Green tea flavoured (e.g. lemon),710,Not sure of the right water temperature,Brewing complexity,Negative,Convenience Buyer
+UK,Chamomile tea,711,The aftertaste puts me off,Taste / flavour,Neutral,Price-Conscious Rejecter
+CA,Bubble tea,712,I find it bland and watery,Taste / flavour,Negative,Traditional Drinker
+US,Other herbal tea,713,Not convinced by the health claims,Health perception,Positive,Curious Explorer
+US,Chamomile tea,714,I find it bland and watery,Taste / flavour,Negative,Traditional Drinker
+CA,"Benefit / functional tea (sleep, detox, immunity)",715,I always get the brewing wrong,Brewing complexity,Neutral,Traditional Drinker
+US,Bubble tea,716,I avoid caffeine for health reasons,Caffeine concerns,Negative,Curious Explorer
+UK,Rooibos / red tea,717,I find it bland and watery,Taste / flavour,Neutral,Convenience Buyer
+US,Other cold brew tea,718,Not worth the extra cost,Price / value,Negative,Price-Conscious Rejecter
+CA,Other tea (e.g. white tea),719,Trop amer pour moi,Taste / flavour,Negative,Curious Explorer
+UK,Cold brew fruit and herbal tea,720,Too much caffeine for the evening,Caffeine concerns,Neutral,Curious Explorer
+CA,Bubble tea,721,I don't like the grassy flavour,Taste / flavour,Negative,Convenience Buyer
+UK,Other tea (e.g. white tea),722,It feels gritty,Texture / mouthfeel,Negative,Convenience Buyer
+US,Flavoured black tea (e.g. Earl Grey),723,I'm never sure how long to brew it,Brewing complexity,Negative,Price-Conscious Rejecter
+US,Cold brew black tea,724,Too watery for me,Texture / mouthfeel,Negative,Wellness Seeker
+CA,Instant tea powder,725,Je ne connais pas ce type de thé,Unfamiliarity,Neutral,Functional Benefit Seeker
+UK,Green tea flavoured (e.g. lemon),726,Want something caffeine-free,Caffeine concerns,Negative,Functional Benefit Seeker
+US,Cold brew black tea,727,Don't know much about this type,Unfamiliarity,Neutral,Functional Benefit Seeker
+US,Matcha tea,728,I'm never sure how long to brew it,Brewing complexity,Negative,Price-Conscious Rejecter
+US,Other cold brew tea,729,Want something caffeine-free,Caffeine concerns,Negative,Price-Conscious Rejecter
+UK,Green tea decaffeinated,730,Premium pricing puts me off,Price / value,Negative,Convenience Buyer
+CA,Chai tea,731,Not worth the extra cost,Price / value,Negative,Convenience Buyer
+UK,Decaffeinated black tea,732,It's too expensive for what it is,Price / value,Negative,Traditional Drinker
+UK,"Origin black tea (e.g. Assam, Darjeeling)",733,The taste is too bitter for me,Taste / flavour,Positive,Traditional Drinker
+CA,Flavoured black tea (e.g. Earl Grey),734,I avoid caffeine for health reasons,Caffeine concerns,Neutral,Convenience Buyer
+US,Bubble tea,735,Not sure of the right water temperature,Brewing complexity,Neutral,Curious Explorer
+CA,Instant tea powder,736,Not sure of the right water temperature,Brewing complexity,Neutral,Traditional Drinker
+CA,Instant tea powder,737,Don't want to pay more for it,Price / value,Negative,Traditional Drinker
+CA,Chai tea,738,Looking for healthier alternatives,Health perception,Negative,Curious Explorer
+CA,Lemon / ginger tea,739,Already happy with my regular brew,Habit / preference,Negative,Convenience Buyer
+CA,Rooibos / red tea,740,Caffeine keeps me awake at night,Caffeine concerns,Negative,Price-Conscious Rejecter
+US,Chai tea,741,I find it bland and watery,Taste / flavour,Positive,Curious Explorer
+US,Cold brew green tea,742,Can't get it easily,Availability,Negative,Traditional Drinker
+UK,Instant tea powder,743,Cheaper options do the same job,Price / value,Negative,Traditional Drinker
+CA,Peppermint tea,744,Takes too long to make,Brewing complexity,Negative,Wellness Seeker
+US,Green tea (pure),745,I'm trying to cut down on caffeine,Caffeine concerns,Neutral,Curious Explorer
+CA,Rooibos / red tea,746,I'm trying to cut down on caffeine,Caffeine concerns,Negative,Traditional Drinker
+CA,Flavoured black tea (e.g. Earl Grey),747,I find it bland and watery,Taste / flavour,Negative,Curious Explorer
+CA,Other herbal tea,748,I stick to what I know,Habit / preference,Negative,Traditional Drinker
+CA,Bubble tea,749,I don't think it's actually that healthy,Health perception,Neutral,Curious Explorer
+CA,Cold brew fruit and herbal tea,750,I don't think it's actually that healthy,Health perception,Negative,Price-Conscious Rejecter
+US,Rooibos / red tea,751,Drinking hot tea is my habit,Habit / preference,Neutral,Price-Conscious Rejecter
+US,"Origin black tea (e.g. Assam, Darjeeling)",752,Cheaper options do the same job,Price / value,Negative,Functional Benefit Seeker
+CA,Cold brew fruit and herbal tea,753,I wouldn't know where to start with it,Unfamiliarity,Negative,Traditional Drinker
+UK,Rooibos / red tea,754,Too much caffeine for the evening,Caffeine concerns,Negative,Wellness Seeker
+US,Cold brew fruit and herbal tea,755,Mouthfeel is strange,Texture / mouthfeel,Negative,Price-Conscious Rejecter
+CA,Green tea (pure),756,Not convinced by the health claims,Health perception,Negative,Traditional Drinker
+CA,Regular / everyday black tea,757,Don't want to pay more for it,Price / value,Neutral,Price-Conscious Rejecter
+US,Other tea (e.g. white tea),758,Already happy with my regular brew,Habit / preference,Negative,Convenience Buyer
+CA,Cold brew green tea,759,Je préfère le thé chaud,Habit / preference,Positive,Traditional Drinker
+CA,Other herbal tea,760,Je ne connais pas ce type de thé,Unfamiliarity,Negative,Traditional Drinker
+UK,Decaffeinated black tea,761,I just prefer my usual tea,Habit / preference,Neutral,Wellness Seeker
+US,English Breakfast / extra-strong black tea,762,It's too expensive for what it is,Price / value,Negative,Curious Explorer
+CA,Peppermint tea,763,Premium pricing puts me off,Price / value,Negative,Traditional Drinker
+UK,Bubble tea,764,Too strong a flavour for my liking,Taste / flavour,Negative,Curious Explorer
+UK,Chai tea,765,Not worth the extra cost,Price / value,Negative,Curious Explorer
+UK,"Origin black tea (e.g. Assam, Darjeeling)",766,Too much effort to prepare properly,Brewing complexity,Neutral,Curious Explorer
+US,Green tea (pure),767,I stick to what I know,Habit / preference,Negative,Curious Explorer
+US,Other herbal tea,768,Premium pricing puts me off,Price / value,Negative,Wellness Seeker
+CA,Cold brew black tea,769,Caffeine keeps me awake at night,Caffeine concerns,Neutral,Price-Conscious Rejecter
+US,Cold brew green tea,770,Hard to find in my local shop,Availability,Negative,Convenience Buyer
+CA,Cold brew green tea,771,Not convinced by the health claims,Health perception,Negative,Wellness Seeker
+UK,"Benefit / functional tea (sleep, detox, immunity)",772,Takes too long to make,Brewing complexity,Negative,Convenience Buyer
+CA,Green tea decaffeinated,773,Not stocked where I shop,Availability,Negative,Convenience Buyer
+CA,Lemon / ginger tea,774,I wouldn't know where to start with it,Unfamiliarity,Neutral,Functional Benefit Seeker
+UK,English Breakfast / extra-strong black tea,775,Don't want to pay more for it,Price / value,Neutral,Price-Conscious Rejecter
+CA,Flavoured black tea (e.g. Earl Grey),776,Too fiddly compared to a teabag,Brewing complexity,Negative,Curious Explorer
+US,Peppermint tea,777,Just doesn't taste nice,Taste / flavour,Neutral,Wellness Seeker
+US,Chamomile tea,778,Already happy with my regular brew,Habit / preference,Negative,Wellness Seeker
+CA,Flavoured black tea (e.g. Earl Grey),779,I always get the brewing wrong,Brewing complexity,Negative,Convenience Buyer
+UK,Cold brew green tea,780,Not sure of the right water temperature,Brewing complexity,Negative,Price-Conscious Rejecter
+CA,Rooibos / red tea,781,Not part of my routine,Habit / preference,Negative,Wellness Seeker
+CA,Lemon / ginger tea,782,I avoid caffeine for health reasons,Caffeine concerns,Negative,Traditional Drinker
+US,Cold brew fruit and herbal tea,783,Premium pricing puts me off,Price / value,Negative,Traditional Drinker
+US,Cold brew green tea,784,Can't get it easily,Availability,Neutral,Price-Conscious Rejecter
+CA,Decaffeinated black tea,785,The bubbles put me off,Texture / mouthfeel,Negative,Traditional Drinker
+US,"Benefit / functional tea (sleep, detox, immunity)",786,I'm never sure how long to brew it,Brewing complexity,Negative,Traditional Drinker
+UK,"Fruit tea (e.g. berry, peach)",787,Not stocked where I shop,Availability,Negative,Functional Benefit Seeker
+UK,Green tea flavoured (e.g. lemon),788,I wouldn't know where to start with it,Unfamiliarity,Positive,Wellness Seeker
+UK,Chai tea,789,I'm never sure how long to brew it,Brewing complexity,Negative,Curious Explorer
+CA,Green tea (pure),790,I find it bland and watery,Taste / flavour,Negative,Convenience Buyer
+CA,Other herbal tea,791,It's too expensive for what it is,Price / value,Negative,Convenience Buyer
+UK,"Benefit / functional tea (sleep, detox, immunity)",792,It feels gritty,Texture / mouthfeel,Negative,Convenience Buyer
+UK,Other herbal tea,793,Want something caffeine-free,Caffeine concerns,Negative,Price-Conscious Rejecter
+UK,Green tea flavoured (e.g. lemon),794,Too fiddly compared to a teabag,Brewing complexity,Negative,Wellness Seeker
+CA,Chai tea,795,Already happy with my regular brew,Habit / preference,Negative,Wellness Seeker
+US,"Benefit / functional tea (sleep, detox, immunity)",796,I find it bland and watery,Taste / flavour,Positive,Price-Conscious Rejecter
+US,Matcha tea,797,I don't like the texture,Texture / mouthfeel,Neutral,Curious Explorer
+CA,"Fruit tea (e.g. berry, peach)",798,I've never really tried it,Unfamiliarity,Negative,Wellness Seeker
+US,Lemon / ginger tea,799,Don't want to pay more for it,Price / value,Negative,Traditional Drinker
+UK,Cold brew fruit and herbal tea,800,I avoid caffeine for health reasons,Caffeine concerns,Negative,Functional Benefit Seeker
+CA,Instant tea powder,801,I'm trying to cut down on caffeine,Caffeine concerns,Negative,Price-Conscious Rejecter
+US,"Fruit tea (e.g. berry, peach)",802,I'm never sure how long to brew it,Brewing complexity,Neutral,Functional Benefit Seeker
+US,"Fruit tea (e.g. berry, peach)",803,I always get the brewing wrong,Brewing complexity,Negative,Convenience Buyer
+UK,Other herbal tea,804,I don't think it's actually that healthy,Health perception,Neutral,Traditional Drinker
+UK,Cold brew green tea,805,Not worth the extra cost,Price / value,Negative,Curious Explorer
+US,Chai tea,806,Hard to find in my local shop,Availability,Negative,Curious Explorer
+US,Chamomile tea,807,Tastes medicinal and unpleasant,Taste / flavour,Negative,Curious Explorer
+UK,Lemon / ginger tea,808,I'm never sure how long to brew it,Brewing complexity,Positive,Functional Benefit Seeker
+CA,Green tea decaffeinated,809,I just prefer my usual tea,Habit / preference,Negative,Traditional Drinker
+UK,Cold brew fruit and herbal tea,810,Too much caffeine for the evening,Caffeine concerns,Neutral,Price-Conscious Rejecter
+CA,Flavoured black tea (e.g. Earl Grey),811,Too fiddly compared to a teabag,Brewing complexity,Negative,Price-Conscious Rejecter
+US,Green tea (pure),812,Don't know much about this type,Unfamiliarity,Negative,Curious Explorer
+CA,Cold brew fruit and herbal tea,813,It's too expensive for what it is,Price / value,Negative,Wellness Seeker
+US,Flavoured black tea (e.g. Earl Grey),814,Not sure of the right water temperature,Brewing complexity,Negative,Wellness Seeker
+UK,Matcha tea,815,I avoid caffeine for health reasons,Caffeine concerns,Negative,Curious Explorer
+CA,Chai tea,816,The taste is too bitter for me,Taste / flavour,Neutral,Traditional Drinker
+CA,Chamomile tea,817,Mouthfeel is strange,Texture / mouthfeel,Positive,Functional Benefit Seeker
+UK,Green tea (pure),818,I'm never sure how long to brew it,Brewing complexity,Neutral,Price-Conscious Rejecter
+UK,Regular / everyday black tea,819,Looking for healthier alternatives,Health perception,Negative,Convenience Buyer
+UK,"Origin black tea (e.g. Assam, Darjeeling)",820,Too strong a flavour for my liking,Taste / flavour,Negative,Convenience Buyer
+CA,Cold brew green tea,821,The aftertaste puts me off,Taste / flavour,Negative,Curious Explorer
+UK,Lemon / ginger tea,822,I'm trying to cut down on caffeine,Caffeine concerns,Negative,Functional Benefit Seeker
+UK,Other herbal tea,823,I don't like the texture,Texture / mouthfeel,Negative,Convenience Buyer
+CA,Green tea flavoured (e.g. lemon),824,Too much caffeine for the evening,Caffeine concerns,Negative,Convenience Buyer
+US,"Benefit / functional tea (sleep, detox, immunity)",825,I just prefer my usual tea,Habit / preference,Negative,Curious Explorer
+US,English Breakfast / extra-strong black tea,826,I avoid caffeine for health reasons,Caffeine concerns,Neutral,Curious Explorer
+CA,Lemon / ginger tea,827,C'est trop cher,Price / value,Negative,Wellness Seeker
+CA,Rooibos / red tea,828,Rarely see it on the shelf,Availability,Neutral,Functional Benefit Seeker
+US,Peppermint tea,829,I wouldn't know where to start with it,Unfamiliarity,Neutral,Curious Explorer
+US,Regular / everyday black tea,830,Not familiar with how to drink it,Unfamiliarity,Negative,Curious Explorer
+CA,Cold brew fruit and herbal tea,831,Not worth the extra cost,Price / value,Negative,Convenience Buyer
+UK,Matcha tea,832,Not familiar with how to drink it,Unfamiliarity,Negative,Wellness Seeker
+CA,Other tea (e.g. white tea),833,Too much effort to prepare properly,Brewing complexity,Negative,Price-Conscious Rejecter
+UK,"Fruit tea (e.g. berry, peach)",834,I'm trying to cut down on caffeine,Caffeine concerns,Positive,Functional Benefit Seeker
+UK,"Origin black tea (e.g. Assam, Darjeeling)",835,It's too expensive for what it is,Price / value,Negative,Price-Conscious Rejecter
+US,Green tea flavoured (e.g. lemon),836,I've never really tried it,Unfamiliarity,Negative,Price-Conscious Rejecter
+UK,Bubble tea,837,The bubbles put me off,Texture / mouthfeel,Negative,Wellness Seeker
+US,Decaffeinated black tea,838,Cheaper options do the same job,Price / value,Positive,Price-Conscious Rejecter
+US,Green tea flavoured (e.g. lemon),839,Cheaper options do the same job,Price / value,Negative,Wellness Seeker
+UK,Rooibos / red tea,840,Not worth the extra cost,Price / value,Negative,Functional Benefit Seeker
+CA,Chai tea,841,I find it bland and watery,Taste / flavour,Negative,Functional Benefit Seeker
+UK,Instant tea powder,842,Already happy with my regular brew,Habit / preference,Positive,Traditional Drinker
+UK,"Fruit tea (e.g. berry, peach)",843,It's too expensive for what it is,Price / value,Neutral,Functional Benefit Seeker
+CA,Instant tea powder,844,Takes too long to make,Brewing complexity,Negative,Price-Conscious Rejecter
+CA,Green tea (pure),845,I always get the brewing wrong,Brewing complexity,Neutral,Convenience Buyer
+UK,Peppermint tea,846,I'm never sure how long to brew it,Brewing complexity,Neutral,Traditional Drinker
+US,Other cold brew tea,847,I always get the brewing wrong,Brewing complexity,Positive,Functional Benefit Seeker
+CA,Other cold brew tea,848,The bubbles put me off,Texture / mouthfeel,Negative,Curious Explorer
+UK,Lemon / ginger tea,849,I'm trying to cut down on caffeine,Caffeine concerns,Neutral,Traditional Drinker
+UK,Green tea decaffeinated,850,I stick to what I know,Habit / preference,Negative,Price-Conscious Rejecter
+US,Cold brew black tea,851,Not worth the extra cost,Price / value,Negative,Curious Explorer
+CA,Chamomile tea,852,I've never really tried it,Unfamiliarity,Positive,Traditional Drinker
+CA,Regular / everyday black tea,853,Hard to find in my local shop,Availability,Neutral,Wellness Seeker
+UK,Other herbal tea,854,I find it bland and watery,Taste / flavour,Negative,Wellness Seeker
+UK,Chamomile tea,855,I stick to what I know,Habit / preference,Negative,Price-Conscious Rejecter
+CA,Chamomile tea,856,The bubbles put me off,Texture / mouthfeel,Negative,Functional Benefit Seeker
+UK,Decaffeinated black tea,857,Want something caffeine-free,Caffeine concerns,Negative,Functional Benefit Seeker
+UK,Regular / everyday black tea,858,I don't like the grassy flavour,Taste / flavour,Negative,Curious Explorer
+UK,Other tea (e.g. white tea),859,I always get the brewing wrong,Brewing complexity,Negative,Traditional Drinker
+US,"Origin black tea (e.g. Assam, Darjeeling)",860,I don't like the grassy flavour,Taste / flavour,Negative,Traditional Drinker
+US,Cold brew green tea,861,Not familiar with how to drink it,Unfamiliarity,Negative,Traditional Drinker
+CA,"Fruit tea (e.g. berry, peach)",862,Can't get it easily,Availability,Positive,Traditional Drinker
+UK,Other cold brew tea,863,Too much effort to prepare properly,Brewing complexity,Positive,Convenience Buyer
+US,Cold brew black tea,864,I'm trying to cut down on caffeine,Caffeine concerns,Neutral,Wellness Seeker
+US,Bubble tea,865,Not familiar with how to drink it,Unfamiliarity,Positive,Price-Conscious Rejecter
+UK,Flavoured black tea (e.g. Earl Grey),866,Flavour is too earthy,Taste / flavour,Positive,Curious Explorer
+UK,Green tea flavoured (e.g. lemon),867,Takes too long to make,Brewing complexity,Negative,Traditional Drinker
+US,Decaffeinated black tea,868,I'm trying to cut down on caffeine,Caffeine concerns,Negative,Functional Benefit Seeker
+US,Other herbal tea,869,Flavour is too earthy,Taste / flavour,Negative,Price-Conscious Rejecter
+CA,Other herbal tea,870,Premium pricing puts me off,Price / value,Negative,Functional Benefit Seeker
+US,Peppermint tea,871,Rarely see it on the shelf,Availability,Negative,Traditional Drinker
+UK,Cold brew black tea,872,Want something caffeine-free,Caffeine concerns,Negative,Convenience Buyer
+US,Rooibos / red tea,873,I find it bland and watery,Taste / flavour,Negative,Traditional Drinker
+CA,Instant tea powder,874,I always get the brewing wrong,Brewing complexity,Negative,Curious Explorer
+UK,Bubble tea,875,I'm never sure how long to brew it,Brewing complexity,Negative,Convenience Buyer
+CA,Cold brew black tea,876,I've never really tried it,Unfamiliarity,Negative,Traditional Drinker
