@@ -386,7 +386,7 @@ with st.sidebar:
     <div class="brand">
       <div class="brand-mark">T</div>
       <div>
-        <div class="brand-name">Tea<span>.</span>ai</div>
+        <div class="brand-name">Tea<span>.</span>na</div>
         <div class="brand-sub">Consumer Insights Workspace</div>
       </div>
     </div>""", unsafe_allow_html=True)
