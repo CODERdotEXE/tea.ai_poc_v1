@@ -1,5 +1,5 @@
 """
-Tea.ai — V1 Consumer Insights Workspace
+Tea.na — V1 Consumer Insights Workspace
 """
 
 import streamlit as st
@@ -7,7 +7,7 @@ import pandas as pd
 import plotly.graph_objects as go
 from pathlib import Path
 
-st.set_page_config(page_title="Tea.ai", page_icon="🍵", layout="wide",
+st.set_page_config(page_title="Tea.na", page_icon="🍵", layout="wide",
                    initial_sidebar_state="expanded")
 
 NAVY   = "#0B2A4A"; NAVY_SOFT = "#13355A"
@@ -431,7 +431,7 @@ def view_ask_ai():
 
     if st.session_state.chat:
         r = st.session_state.chat["resp"]
-        st.markdown(f'<div class="resp-card"><h4>Tea.ai response</h4>{r["text"]}</div>',
+        st.markdown(f'<div class="resp-card"><h4>Tea.na response</h4>{r["text"]}</div>',
                     unsafe_allow_html=True)
         if r["chart"]:
             st.markdown("<div style='height:8px'></div>", unsafe_allow_html=True)
@@ -441,7 +441,7 @@ def view_ask_ai():
         st.markdown(f"""
           <div class="resp-card" style="text-align:center;padding:46px 24px;color:{SOFT}">
             <div style="font-size:24px;margin-bottom:8px">🍵</div>
-            <div style="font-weight:600;color:{SOFT};font-size:15px;margin-bottom:5px">Ask Tea.ai anything</div>
+            <div style="font-weight:600;color:{SOFT};font-size:15px;margin-bottom:5px">Ask Tea.na anything</div>
             <div style="font-size:13px">Try "Why do consumers reject green tea?" or "Who are the main personas?"</div>
           </div>""", unsafe_allow_html=True)
 
